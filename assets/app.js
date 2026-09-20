@@ -421,7 +421,7 @@
     return metricStrip([
       { label: 'States screened', value: valueOr(metrics.states, states.length || 'Not reported'), note: `Completed: ${complete} / ${states.length}` },
       { label: 'FCC filers', value: valueOr(metrics.filers, arr(atlas.providers).length || 'Not reported'), note: `${metrics.residentialFilers} with residential R/X; ${metrics.businessOnlyFilers} business-only` },
-      { label: 'Counties with reported residential FTTP', value: valueOr(metrics.counties, Object.keys(atlas.countyNames || {}).length || 'Not reported'), note: data.meta?.acsVintage || 'ACS vintage not supplied' },
+      { label: 'Counties with reported residential FTTP', value: valueOr(metrics.counties, Object.keys(atlas.countyNames || {}).length || 'Not reported'), note: `FCC availability: ${data.meta?.fccVintage || 'vintage not supplied'}` },
       { label: 'FCC vintage', value: data.meta?.fccVintage || 'Not supplied', note: 'Reported availability, not passings or subscribers', sourceIds: ['fcc'] }
     ]);
   }
@@ -468,8 +468,8 @@
     return `${hero({ eyebrow: meta.publicationStatus || 'Public source research', title: meta.title || 'Fiber Strategy Lab', lede: meta.scope || 'Decision-ready public research on fiber platforms, targets, and availability context.', decision: 'Use the four sub-sites to distinguish current platform perimeter, public analytical fit, and reported FCC availability. A curated dossier is not a transaction process, and an FCC row is not a construction claim.' })}
     <div class="shell">${metricStrip([
       { label: 'Measured states', value: valueOr(metrics.states, 'Not reported'), note: `${arr(data.atlas?.states).filter((row) => row.complete).length} reconciled state datasets` },
-      { label: 'FCC filer rows', value: valueOr(metrics.filers, 'Not reported'), note: 'Technology 50, residential R/X availability' },
-      { label: 'Counties with reported residential FTTP', value: valueOr(metrics.counties, 'Not reported'), note: meta.acsVintage || 'ACS context' },
+      { label: 'FCC filers', value: valueOr(metrics.filers, 'Not reported'), note: `${metrics.residentialFilers} with residential R/X; ${metrics.businessOnlyFilers} business-only` },
+      { label: 'Counties with reported residential FTTP', value: valueOr(metrics.counties, 'Not reported'), note: `FCC availability: ${meta.fccVintage || 'vintage not supplied'}` },
       { label: 'Public source URLs', value: valueOr(metrics.uniqueSourceUrls, arr(data.sources).length || 'Not reported'), note: `As of ${meta.asOf || 'date not supplied'}` }
     ])}</div>
     <main id="main" tabindex="-1" class="shell">
