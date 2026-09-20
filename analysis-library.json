@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "p3-investment-case",
+    "title": "Lit municipal contracts: ownership, duration and cash flow",
+    "url": "research/p3-investment-case/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 515,
+    "sources": []
+  },
+  {
+    "id": "portfolio-alternatives",
+    "title": "Two portfolio cases: Omni and the broader Midwest option",
+    "url": "research/portfolio-alternatives/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 1852,
+    "sources": [
+      {
+        "id": "O1",
+        "title": "Oak Hill Commits $250M to Omni Fiber",
+        "url": "https://oakhill.com/2022/07/22/oak-hill-commits-250m-to-omni-fiber-to-expand-broadband-access-in-underserved-towns-across-the-midwest/",
+        "date": "2022-07-22"
+      },
+      {
+        "id": "O2",
+        "title": "Omni Fiber and Lit Fiber announce merger",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20"
+      },
+      {
+        "id": "O3",
+        "title": "Omni Fiber secures $200 million and reports operating/build metrics",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01"
+      },
+      {
+        "id": "O4",
+        "title": "Omni Fiber acquires Citizens Fiber",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-acquires-citizens-fiber-expanding-its-footprint-in-western-pennsylvania/",
+        "date": "2026-06-01"
+      },
+      {
+        "id": "O5",
+        "title": "Omni Fiber service areas",
+        "url": "https://www.omnifiber.com/serviceareas/",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "O6",
+        "title": "City of Brownsville FY2025 ACFR, Note 24",
+        "url": "https://www.brownsvilletx.gov/DocumentCenter/View/17661/FY-2025-ACFR",
+        "date": "2025-09-30"
+      },
+      {
+        "id": "S1",
+        "title": "Socket Telecom Announces Strategic Investment from Oak Hill and Pamlico",
+        "url": "https://oakhill.com/2025/07/08/socket-telecom-announces-strategic-investment-from-oak-hill-capital-and-pamlico-capital/",
+        "date": "2025-07-08"
+      },
+      {
+        "id": "S2",
+        "title": "IdeaTek Announces Strategic Investment from Oak Hill and Pamlico",
+        "url": "https://oakhill.com/2025/07/08/ideatek-telcom-announces-strategic-investment-from-oak-hill-capital-and-pamlico-capital/",
+        "date": "2025-07-08"
+      },
+      {
+        "id": "S3",
+        "title": "FCC DA 25-389, transfer of IdeaTek control to Last Dance Intermediate III",
+        "url": "https://docs.fcc.gov/public/attachments/DA-25-389A1.pdf",
+        "date": "2025-05-06"
+      },
+      {
+        "id": "S4",
+        "title": "Socket Fiber About",
+        "url": "https://www.socket.net/about/",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "S5",
+        "title": "Socket Fiber current service areas",
+        "url": "https://www.socket.net/",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "S6",
+        "title": "Socket announces acquisition of Fastwyre Missouri",
+        "url": "https://www.socket.net/press-release/socket-acquiring-fastwyre/",
+        "date": "2026-01-27"
+      },
+      {
+        "id": "S7",
+        "title": "Houlihan Lokey advises Socket on closed Fastwyre Missouri acquisition",
+        "url": "https://hl.com/about-us/transactions/socket-fiber-oak-hill-pamlico-fastwyre-broadband/",
+        "date": "2026-04-30 closing"
+      },
+      {
+        "id": "S8",
+        "title": "FCC DA 26-298, Socket/Fastwyre Missouri control record",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-298A1.pdf",
+        "date": "2026-03-27"
+      },
+      {
+        "id": "S9",
+        "title": "Pamlico Capital current Socket and IdeaTek portfolio page",
+        "url": "https://www.pamlicocapital.com/portfolio/socket-telecom",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "I1",
+        "title": "IdeaTek About Us",
+        "url": "https://ideatek.com/about-us/",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "I2",
+        "title": "IdeaTek service areas",
+        "url": "https://ideatek.com/service-area/",
+        "date": "current page accessed 2026-09-20"
+      },
+      {
+        "id": "I3",
+        "title": "IdeaTek expands fiber network to Tucson",
+        "url": "https://ideatek.com/ideatek-expands-fiber-network-to-tucson-arizona/",
+        "date": "2026-07-21"
+      },
+      {
+        "id": "I4",
+        "title": "IdeaTek acquires Velocity",
+        "url": "https://ideatek.com/ideatek-acquires-velocity-expanding-fiber-and-wireless-service-across-south-central-kansas/",
+        "date": "2026-03-03"
+      },
+      {
+        "id": "C1",
+        "title": "T-Mobile announces GoNetspeed/Greenlight and i3 fiber joint ventures",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-add-two-strategic-fiber-joint-ventures-gonetspeed-greenlight-i3",
+        "date": "2026-04-28"
+      }
+    ]
+  },
+  {
+    "id": "post-d25-builders",
+    "title": "Post-D25 builders: LiveOak Fiber, Wire 3 and IQ Fiber",
+    "url": "research/post-d25-builders/",
+    "pages": [
+      "states",
+      "rightfiber"
+    ],
+    "type": "Detailed analysis",
+    "words": 1262,
+    "sources": [
+      {
+        "id": "S01",
+        "title": "FCC Provider / Location Coverage catalog",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/listAvailabilityData",
+        "date": "2025-12-31 vintage; D25_15sep2026 revision",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S02",
+        "title": "About Us",
+        "url": "https://liveoakfiber.com/about-us/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S03",
+        "title": "LiveOak Fiber Secures New Funding to Accelerate Fiber Expansion",
+        "url": "https://liveoakfiber.com/liveoak-fiber-secures-new-funding-to-accelerate-fiber-expansion/",
+        "date": "2026-04-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S04",
+        "title": "LiveOak Fiber Enters South Carolina",
+        "url": "https://liveoakfiber.com/liveoak-fiber-enters-south-carolina-bringing-all-fiber-internet-to-more-than-10000-bluffton-homes-and-businesses/",
+        "date": "2026-09-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S05",
+        "title": "Wire 3 Announces Majority Investment from Oak Hill Capital",
+        "url": "https://wire3.com/wire-3-announces-majority-investment-from-oak-hill-capital/",
+        "date": "2024-01-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S06",
+        "title": "Financing Accelerates Florida-Focused Growth",
+        "url": "https://wire3.com/wire-3-continues-to-raise-financing-accelerating-florida-focused-growth/",
+        "date": "2025-07-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S07",
+        "title": "Wire 3 Lights Up Leesburg",
+        "url": "https://wire3.com/wire3-fiber-internet-leesburg-lake-county/",
+        "date": "2026-04; day not stated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S08",
+        "title": "Wire 3 to Power Up Three Martin County Communities",
+        "url": "https://wire3.com/expansion-martin-county/",
+        "date": "2026-06-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S09",
+        "title": "Construction Officially Underway in Albany",
+        "url": "https://wire3.com/albany-ga-construction/",
+        "date": "2026-06-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Wire 3 Launches Fiber Internet in Anderson, South Carolina",
+        "url": "https://wire3.com/anderson-sc/",
+        "date": "2026-08-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "IQ Fiber Secures Additional $150 Million Equity Commitment from SDC Capital Partners",
+        "url": "https://www.iqfiber.com/iq-fiber-secures-additional-150-million-equity-commitment-from-sdc-capital-partners/",
+        "date": "2023-05-24; updated 2025-11-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "IQ Fiber to Acquire ThinkBig Networks",
+        "url": "https://www.iqfiber.com/iqfiber-thinkbig-networks/",
+        "date": "2024-11-22; updated 2025-12-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "IQ Fiber Launches 100% Fiber-Optic Internet Service in Pinellas County",
+        "url": "https://www.iqfiber.com/iq-fiber-launches-100-fiber-optic-internet-service-in-pinellas-county/",
+        "date": "2026-05-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "About IQ Fiber and current locations",
+        "url": "https://www.iqfiber.com/about/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "tmobile",
+    "title": "T-Mobile: customer ownership and wholesale economics",
+    "url": "research/tmobile/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 1575,
+    "sources": [
+      {
+        "id": "tmus-q2-10q",
+        "title": "T-Mobile US Form 10-Q for the quarter ended June 30, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000101/tmus-20260630.htm",
+        "date": "2026-07-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-q2-earnings",
+        "title": "T-Mobile Q2 2026 earnings release, SEC Exhibit 99.1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+        "date": "2026-07-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-new-jvs",
+        "title": "T-Mobile Strengthens Next-Generation Broadband Portfolio with Two Strategic Fiber Partnerships",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-add-two-strategic-fiber-joint-ventures-gonetspeed-greenlight-i3",
+        "date": "2026-04-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-2025-10k",
+        "title": "T-Mobile US Form 10-K for the year ended December 31, 2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm",
+        "date": "2026-02-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-cmd-2026",
+        "title": "T-Mobile Capital Markets Day Update",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-capital-markets-day-update-feb-2026",
+        "date": "2026-02-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-lumos-close",
+        "title": "T-Mobile and EQT Close Joint Venture to Acquire Lumos and Expand Fiber Internet Access",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-eqt-close-lumos-fiber-jv",
+        "date": "2025-04-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-metronet-announce",
+        "title": "T-Mobile and KKR Announce Joint Venture to Acquire Metronet",
+        "url": "https://www.t-mobile.com/news/network/t-mobile-kkr-joint-venture-to-acquire-metronet",
+        "date": "2024-07-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "oakhill-metronet-close",
+        "title": "Oak Hill and Cinelli Family Complete Sale of Metronet",
+        "url": "https://oakhill.com/2025/07/24/oak-hill-and-cinelli-family-complete-sale-of-metronet/",
+        "date": "2025-07-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-lit-merger",
+        "title": "Omni Fiber and Lit Fiber announce merger to accelerate fiber-to-the-home expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-financing-2025",
+        "title": "Omni Fiber raises $200 million from Oak Hill Capital, Stonepeak Credit, and Oak Hill Advisors",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-citizens-2026",
+        "title": "Omni Fiber Acquires Citizens Fiber, Expanding Its Footprint In Western Pennsylvania",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-acquires-citizens-fiber-expanding-its-footprint-in-western-pennsylvania/",
+        "date": "2026-06-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-oakhill-2022",
+        "title": "Omni Fiber and Oak Hill Capital Announce Partnership",
+        "url": "https://www.omnifiber.com/news/oakhill/",
+        "date": "2022-07-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-mdu",
+        "title": "Omni Fiber Community Solutions",
+        "url": "https://www.omnifiber.com/mdu/",
+        "date": "Undated public webpage",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-roe",
+        "title": "Omni Fiber Right of Entry and Installation Agreement template",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2025/09/ROE_09-2025.pdf",
+        "date": "Undated document in 2025-09 URL path",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "omni-mobile",
+        "title": "Omni Mobile service page",
+        "url": "https://www.omnifiber.com/mobile/",
+        "date": "Undated public webpage",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "fcc-2026-report",
+        "title": "FCC 2026 Section 706 Report, FCC 26-55",
+        "url": "https://docs.fcc.gov/public/attachments/FCC-26-55A1.pdf",
+        "date": "2026-08-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "fcc-j26-window",
+        "title": "FCC Public Notice opening the June 30, 2026 BDC filing window, DA 26-630",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-630A1.pdf",
+        "date": "2026-06-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "tmus-sep-8k",
+        "title": "T-Mobile US Form 8-K for September 1, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312526381901/d155079d8k.htm",
+        "date": "2026-09-03",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "verizon",
+    "title": "Verizon: selective markets, Eaton and the MDU countercase",
+    "url": "research/verizon/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 1749,
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Verizon Communications Inc. Form 10-Q for the quarter ended June 30, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000046/vz-20260630.htm",
+        "date": "2026-07-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S2",
+        "title": "Verizon 2025 Annual Report on Form 10-K",
+        "url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+        "date": "2026-02-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S3",
+        "title": "Introducing Frontier, a Verizon Company",
+        "url": "https://www.verizon.com/about/news/feed/introducing-frontier-verizon-company",
+        "date": "2026-01-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S4",
+        "title": "Verizon accelerates fixed wireless broadband expansion with acquisition of Starry",
+        "url": "https://www.verizon.com/about/news/verizon-acquisition-starry",
+        "date": "2025-10-08",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S5",
+        "title": "Verizon Expanding Broadband with New Strategic Fiber Agreement",
+        "url": "https://www.verizon.com/about/news/verizon-expanding-broadband-new-strategic-fiber-agreement",
+        "date": "2025-10-27",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S6",
+        "title": "Bain Capital and Tillman Global Holdings Announce $1.5 Billion Investment in Eaton Fiber",
+        "url": "https://www.businesswire.com/news/home/20260729713894/en/Bain-Capital-and-Tillman-Global-Holdings-Announce-$1.5-Billion-Investment-in-Eaton-Fiber-to-Power-the-Expansion-of-Verizon-Fiber-Broadband-across-the-United-States",
+        "date": "2026-07-29",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S7",
+        "title": "Verizon Q4 2025 earnings call transcript",
+        "url": "https://www.verizon.com/about/sites/default/files/2026-02/vz_4q25_transcript_013026.pdf",
+        "date": "2026-01-30",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S8",
+        "title": "Verizon and Corning announce multi-year, multi-billion dollar supply agreement",
+        "url": "https://www.verizon.com/about/news/verizon-corning-broadband-ai-fiber-agreement",
+        "date": "2026-09-08",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S9",
+        "title": "Omni Fiber and Lit Fiber announce merger to accelerate fiber-to-the-home expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Omni Fiber raises $200 million for expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "Omni Fiber Acquires Citizens Fiber",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-acquires-citizens-fiber-expanding-its-footprint-in-western-pennsylvania/",
+        "date": "2026-06-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "Omni Fiber Service Areas",
+        "url": "https://www.omnifiber.com/serviceareas/",
+        "date": null,
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "Frontier Fiber for Business locations in Ohio",
+        "url": "https://business.frontier.com/local/oh",
+        "date": null,
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "Frontier Fiber for Business locations in Michigan",
+        "url": "https://business.frontier.com/local/mi",
+        "date": null,
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S15",
+        "title": "Omni Fiber Right of Entry and Installation Agreement",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2025/09/ROE_09-2025.pdf",
+        "date": "2025-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S16",
+        "title": "Omni Fiber Business Internet",
+        "url": "https://www.omnifiber.com/business/",
+        "date": null,
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S17",
+        "title": "Omni Fiber Pennsylvania Competitive Access Provider Tariff",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2023/06/Pennsyvania-CAP-Tariff-6-2023.pdf",
+        "date": "2023-06",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "att",
+    "title": "AT&T: market access and NetworkCo",
+    "url": "research/att/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 2057,
+    "sources": [
+      {
+        "id": "S01",
+        "title": "AT&T Completes Acquisition of Lumen's Mass Markets Fiber Business",
+        "url": "https://about.att.com/story/2026/att-lumen-deal-close.html",
+        "date": "2026-02-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S02",
+        "title": "AT&T Form 8-K: Lumen purchase agreement and NetworkCo perimeter",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312525123971/d939113d8k.htm",
+        "date": "2025-05-21",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S03",
+        "title": "AT&T Form 10-Q for the period ended June 30, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/t-20260630.htm",
+        "date": "2026-07-23; reporting period ended 2026-06-30",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S04",
+        "title": "Lumen Form 8-K: completion of Mass Markets fiber-to-the-home sale",
+        "url": "https://www.sec.gov/Archives/edgar/data/18926/000119312526032635/d25850d8k.htm",
+        "date": "2026-02-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S05",
+        "title": "AT&T at Citi Global TMT Conference, official investor-relations transcript",
+        "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/quarterly-earnings/2026/t-usq-transcript-2026-09-10.pdf",
+        "date": "2026-09-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S06",
+        "title": "AT&T at Goldman Sachs Communacopia + Technology Conference, official investor-relations transcript",
+        "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/quarterly-earnings/2026/t-usq-transcript-2026-09-09.pdf",
+        "date": "2026-09-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S07",
+        "title": "AT&T 2025 Annual Report",
+        "url": "https://about.att.com/ecms/dam/snrdocs/2025-annual-report-complete-annual-report.pdf",
+        "date": "2025-12-31 reporting date; published 2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S08",
+        "title": "Gigapower Joint Venture from AT&T and BlackRock Launches",
+        "url": "https://about.att.com/story/2023/gigapower.html",
+        "date": "2023-05-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S09",
+        "title": "AT&T Strengthens Fiber Leadership Through New and Expanded Third-Party Relationships",
+        "url": "https://about.att.com/story/2024/third-party-fiber.html",
+        "date": "2024-09-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Omni Fiber and Lit Fiber announce merger to accelerate fiber-to-the-home expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "Omni Fiber raises $200 million from Oak Hill Capital, Stonepeak Credit, and Oak Hill Advisors",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "Omni Fiber Service Areas",
+        "url": "https://www.omnifiber.com/serviceareas/",
+        "date": "current company page as accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "Lit Communities Announces Majority Investment from Oak Hill Capital",
+        "url": "https://oakhill.com/2023/05/04/lit-communities-announces-majority-investment-from-oak-hill-capital-to-accelerate-broadband-deployment/",
+        "date": "2023-05-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "Medina County: Announcing Medina Fiber, an Open Access Residential Fiber Network",
+        "url": "https://www.medinaco.org/wp-content/uploads/2019/11/Phase-1-Announcement-11_26_19.pdf",
+        "date": "2019-11-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S15",
+        "title": "Omni Fiber Brings High-Speed Internet and Smart Connectivity to Brownsville",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-brings-high-speed-internet-and-smart-connectivity-to-brownsville/",
+        "date": "2025-05-27",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S16",
+        "title": "FCC BDC: How to Format Fixed Broadband Availability Location Lists",
+        "url": "https://help.bdc.fcc.gov/hc/en-us/articles/5291539645339-How-to-Format-Fixed-Broadband-Availability-Location-Lists",
+        "date": "updated 2025-07-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S17",
+        "title": "FCC D25 Ohio State FTTP Location Coverage file 1789784",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789784",
+        "date": "availability as of 2025-12-31; file published 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S18",
+        "title": "FCC D25 Michigan State FTTP Location Coverage file 1789771",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789771",
+        "date": "availability as of 2025-12-31; file published 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S19",
+        "title": "FCC D25 Texas State FTTP Location Coverage file 1789792",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789792",
+        "date": "availability as of 2025-12-31; file published 2026-09-15",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "mdu-underwriting",
+    "title": "What an MDU pitch must prove",
+    "url": "research/mdu-underwriting/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 1577,
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Community Solutions",
+        "url": "https://www.omnifiber.com/mdu/",
+        "date": "undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S2",
+        "title": "Omni Fiber and Lit Fiber announce merger to accelerate fiber-to-the-home expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S3",
+        "title": "Omni Fiber Launches Omni Mobile, Expanding Connectivity with New Wireless Offering",
+        "url": "https://www.omnifiber.com/blog/omni-mobile-launch/",
+        "date": "2025-08-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S4",
+        "title": "Omni Fiber raises $200 million from Oak Hill Capital, Stonepeak Credit, and Oak Hill Advisors",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S5",
+        "title": "AT&T Internet Service Plans for Multifamily Properties",
+        "url": "https://www.att.com/att/multifamily-property/",
+        "date": "undated; page comparison dated 2026-04-08",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S6",
+        "title": "AT&T Inc. 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm",
+        "date": "2026-02-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S7",
+        "title": "Verizon Communications Inc. 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm",
+        "date": "2026-02-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S8",
+        "title": "Indoor Cellular Coverage and Build Your Own Coverage",
+        "url": "https://www.t-mobile.com/how-mobile-works/indoor-coverage",
+        "date": "undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S9",
+        "title": "47 CFR 64.2500, Prohibited agreements and required disclosures",
+        "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title47-vol3/pdf/CFR-2025-title47-vol3-sec64-2500.pdf",
+        "date": "2025-10-01 edition",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Improving Competitive Broadband Access to Multiple Tenant Environments, FCC 22-12",
+        "url": "https://www.federalregister.gov/documents/2022/03/28/2022-05862/improving-competitive-broadband-access-to-multiple-tenant-environments",
+        "date": "2022-03-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "Chairman Carr Ends Consideration of Bulk Billing Proposal",
+        "url": "https://docs.fcc.gov/public/attachments/DOC-409130A1.pdf",
+        "date": "2025-01-27",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "Broadband Data Collection FAQs",
+        "url": "https://help.bdc.fcc.gov/hc/en-us/articles/7682769466395-Broadband-Data-Collection-BDC-FAQs",
+        "date": "2025-07-31 update",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "Optimum Communications, Inc. 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1702780/000170278026000013/optu-20251231.htm",
+        "date": "2026-02-13",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "omni-capital",
+    "title": "Omni build pace, funding and transaction perimeter",
+    "url": "research/omni-capital/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Detailed analysis",
+    "words": 1163,
+    "sources": [
+      {
+        "id": "S01",
+        "title": "Oak Hill Commits $250M to Omni Fiber to Expand Broadband Access in Underserved Towns Across the Midwest",
+        "url": "https://oakhill.com/2022/07/22/oak-hill-commits-250m-to-omni-fiber-to-expand-broadband-access-in-underserved-towns-across-the-midwest/",
+        "date": "2022-07-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S02",
+        "title": "Lit Communities Announces Majority Investment from Oak Hill Capital to Accelerate Broadband Deployment",
+        "url": "https://oakhill.com/2023/05/04/lit-communities-announces-majority-investment-from-oak-hill-capital-to-accelerate-broadband-deployment/",
+        "date": "2023-05-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S03",
+        "title": "Omni Fiber announces $150 million in financing from Stonepeak Credit to continue rapid expansion in the Midwest",
+        "url": "https://stonepeak.com/news/omni-fiber-announces-150-million-in-financing-from-stonepeak-credit-to-continue-rapid-expansion-in-the-midwest",
+        "date": "2024-07-16",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S04",
+        "title": "Omni Fiber and Lit Fiber announce merger to accelerate fiber-to-the-home expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S05",
+        "title": "Stonepeak 2025 Mid-Year Credit Presentation",
+        "url": "https://stonepeak.com/wp-content/uploads/2025/04/2025-Mid-Year-Credit-Presentation.pdf",
+        "date": "2025-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S06",
+        "title": "Omni Fiber Brings High-Speed Internet and Smart Connectivity to Brownsville",
+        "url": "https://www.brownsvilletx.gov/m/newsflash/Home/Detail/2596",
+        "date": "2025-05-27",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S07",
+        "title": "City of Brownsville FY2025 Annual Comprehensive Financial Report, Note 24 Joint Ventures",
+        "url": "https://www.brownsvilletx.gov/DocumentCenter/View/17661/FY-2025-ACFR",
+        "date": "2025-09-30",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S08",
+        "title": "Omni Fiber raises $200 million from Oak Hill Capital, Stonepeak Credit, and Oak Hill Advisors to continue rapid expansion in the Midwest and Texas",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S09",
+        "title": "T. Rowe Price OHA Flexible Credit Income Fund Quarterly Holdings Report",
+        "url": "https://www.sec.gov/Archives/edgar/data/2028436/000141036826052174/NPORT_OHAK_34704004_0326.htm",
+        "date": "2026-03-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Omni Fiber Acquires Citizens Fiber, Expanding Its Footprint In Western Pennsylvania",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-acquires-citizens-fiber-expanding-its-footprint-in-western-pennsylvania/",
+        "date": "2026-06-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "Pennsylvania Public Utility Commission General Rule Transfer of Control notice, dockets A-2026-3063492, A-2026-3063495, A-2026-3063497, and A-2026-3063498",
+        "url": "https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol56/56-28/999.html",
+        "date": "2026-07-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "Citizens Fiber home page",
+        "url": "https://citizensfiber.com/",
+        "date": "current page accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "Citizens Fiber legal information",
+        "url": "https://citizensfiber.com/legal/",
+        "date": "current page accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "Omni Fiber Service Areas in Ohio, Pennsylvania, Michigan and Texas",
+        "url": "https://www.omnifiber.com/serviceareas/",
+        "date": "current page accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "rightfiber-perimeter",
+    "title": "Rightfiber: current ownership and pending additions",
+    "url": "research/rightfiber-perimeter/",
+    "pages": [
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Detailed analysis",
+    "words": 1364,
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Grain Management Completes Strategic Combination Forming Rightfiber",
+        "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S2",
+        "title": "Grain Management Announces Strategic Combination of Ritter Communications and Great Plains Communications to Form Rightfiber",
+        "url": "https://www.rightfiber.com/news/grain-management-announces-strategic-combination-of-ritter-communications-and-great-plains-communications-to-form-rightfiber-1",
+        "date": "2026-06-16",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S3",
+        "title": "Nebraska Public Service Commission Minutes, C-5716 indirect transfer to Rightfiber Holdings",
+        "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Minutes/2026_Minutes/2026-09-01%20Preliminary%20Minutes.pdf",
+        "date": "2026-09-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S4",
+        "title": "Rightfiber Areas We Serve",
+        "url": "https://www.rightfiber.com/service-areas",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S5",
+        "title": "Great Plains Communications carrier network page",
+        "url": "https://gpcom.com/carrier/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S6",
+        "title": "Great Plains Communications Nebraska expansion release with enumerated 13-state network",
+        "url": "https://gpcom.com/wp-content/uploads/2023/08/Neb-Fiber_v06232023v4_.pdf",
+        "date": "2023-08-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S7",
+        "title": "Great Plains Communications to Acquire Fastwyre Broadband's Nebraska Business",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297748/0/en/Great-Plains-Communications-GPC-to-Acquire-Fastwyre-Broadband-s-Nebraska-Business.html",
+        "date": "2026-05-19",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S8",
+        "title": "Nebraska Public Service Commission Minutes, C-5709 order granting application and requiring ongoing reporting",
+        "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Minutes/2026_Minutes/2026-08-18%20Preliminary%20Minutes.pdf",
+        "date": "2026-08-18",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S9",
+        "title": "FCC DA-26-1007, international Section 214 grant for HunTel Cablevision transfer to Great Plains Communications",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-1007A1.pdf",
+        "date": "2026-09-18",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Nebraska Public Service Commission Minutes, C-5687 withdrawal of Anacoco application",
+        "url": "https://psc.nebraska.gov/sites/default/files/doc/administration/Minutes/2026_Minutes/2026-07-14.pdf",
+        "date": "2026-07-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "FCC DA-26-322, domestic Section 214 grant for the earlier Anacoco transaction",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-322A1.pdf",
+        "date": "2026-04-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "Great Plains Communications Completes Purchase of InterCarrier Networks",
+        "url": "https://gpcom.com/wp-content/uploads/2019/11/ICN-Acquisition-Complete-PressRelease080619.pdf",
+        "date": "2019-08-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "Great Plains Communications Completes Acquisition of Indiana-Based Enhanced Telecommunications Corporation",
+        "url": "https://gpcom.com/wp-content/uploads/2020/09/GPC-Completes-Acquisition-ETC-Press-Release-09172020.pdf",
+        "date": "2020-09-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "Great Plains Communications Completes Acquisition of USA Communications",
+        "url": "https://gpcom.com/wp-content/uploads/2021/10/usa-comms-final.pdf",
+        "date": "2021-10-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S15",
+        "title": "Great Plains Communications Completes Acquisition of Wood River Network",
+        "url": "https://gpcom.com/wp-content/uploads/2022/01/Press-Release-NE-Fiber.pdf",
+        "date": "2022-01-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S16",
+        "title": "Great Plains Communications Completes Acquisition of Pinpoint Network Solutions and Pinpoint Broadband Business Units",
+        "url": "https://gpcom.com/wp-content/uploads/2019/07/PinPointPressRelease021716-1.pdf",
+        "date": "2016-02-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S17",
+        "title": "Great Plains Communications news archive",
+        "url": "https://gpcom.com/about-us/news/",
+        "date": "live archive through 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S18",
+        "title": "Great Plains Communications Secures $500 Million in Financing",
+        "url": "https://gpcom.com/wp-content/uploads/2025/11/Funding-Press-Release-2024.pdf",
+        "date": "2024-12-20",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "capital-structures",
+    "title": "Acquisition, rollover, JV and wholesale structures",
+    "url": "research/capital-structures/",
+    "pages": [
+      "omni",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Detailed analysis",
+    "words": 2082,
+    "sources": [
+      {
+        "id": "S01",
+        "title": "Grain Management Completes Strategic Combination Forming Rightfiber",
+        "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S02",
+        "title": "Dragonfly Internet Acquires Fast Wireless",
+        "url": "https://dragonfly.net/news/dragonfly-internet-acquires-fast-wireless/",
+        "date": "2026-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S03",
+        "title": "Alabama BEAD Intake Summary, Final Proposal",
+        "url": "https://adeca.alabama.gov/wp-content/uploads/Alabama-BEAD-Intake-Summary-Final-Proposal.pdf",
+        "date": "2026-01-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S04",
+        "title": "Ubiquity Secures Over $400 Million of Green Debt Construction Financing",
+        "url": "https://www.ubiquitygp.com/ubiquity-secures-over-400-million-of-green-debt-construction-financing-to-expand-leading-open-access-fiber-network-deployments/",
+        "date": "2024-12-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S05",
+        "title": "AT&T Strengthens Fiber Leadership Through New and Expanded Third-Party Relationships",
+        "url": "https://about.att.com/story/2024/third-party-fiber.html",
+        "date": "2024-09-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S06",
+        "title": "Gigabit Fiber Announces Majority Investment from Blue Owl's Digital Infrastructure Strategy",
+        "url": "https://www.bankstreet.com/app/uploads/2026/01/2025-09-15_gigabit_fiber_blue_owl_digital_infrastructure_press_release.pdf",
+        "date": "2025-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S07",
+        "title": "Oak Hill Commits $250M to Omni Fiber",
+        "url": "https://oakhill.com/2022/07/22/oak-hill-commits-250m-to-omni-fiber-to-expand-broadband-access-in-underserved-towns-across-the-midwest/",
+        "date": "2022-07-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S08",
+        "title": "Omni Fiber Raises $200 Million for Fiber Expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S09",
+        "title": "Omni Fiber and Lit Fiber Announce Merger",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S10",
+        "title": "Omni Fiber Right of Entry and Installation Agreement",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2025/07/OmniFiber_RightOfEntry_July2025.pdf",
+        "date": "2025-07-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S11",
+        "title": "Connection Made; Lit Fiber-BTX Connects First Customer",
+        "url": "https://www.brownsvilletx.gov/CivicAlerts.aspx?AID=2058",
+        "date": "2024-08-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S12",
+        "title": "T-Mobile Announces GoNetspeed/Greenlight and i3 Fiber Joint Ventures",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-add-two-strategic-fiber-joint-ventures-gonetspeed-greenlight-i3",
+        "date": "2026-04-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S13",
+        "title": "T-Mobile and KKR Announce Joint Venture to Acquire Metronet",
+        "url": "https://www.t-mobile.com/news/network/t-mobile-kkr-joint-venture-to-acquire-metronet",
+        "date": "2024-07-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S14",
+        "title": "T-Mobile 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm",
+        "date": "2026-02-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S15",
+        "title": "T-Mobile and EQT Close Joint Venture to Acquire Lumos",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-eqt-close-lumos-fiber-jv",
+        "date": "2025-04-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S16",
+        "title": "Verizon Expanding Broadband with New Strategic Fiber Agreement",
+        "url": "https://www.verizon.com/about/news/verizon-expanding-broadband-new-strategic-fiber-agreement",
+        "date": "2025-10-27",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S17",
+        "title": "AT&T Completes Acquisition of Lumen's Mass Markets Fiber Business",
+        "url": "https://about.att.com/story/2026/att-lumen-deal-close.html",
+        "date": "2026-02-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "S18",
+        "title": "Lumen 2025 Form 10-K, Mass Markets Fiber-to-the-Home Divestiture",
+        "url": "https://www.sec.gov/Archives/edgar/data/18926/000001892626000014/lumn-20251231.htm",
+        "date": "2026-02-20",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "region-01-arkansas-targets",
+    "title": "Arkansas Targets",
+    "url": "research/region-01-arkansas-targets/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 4
+  },
+  {
+    "id": "region-02-texas-targets",
+    "title": "Texas Targets",
+    "url": "research/region-02-texas-targets/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-03-louisiana-targets",
+    "title": "Louisiana Targets",
+    "url": "research/region-03-louisiana-targets/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 6
+  },
+  {
+    "id": "region-04-tennessee-kentucky",
+    "title": "Tennessee Kentucky",
+    "url": "research/region-04-tennessee-kentucky/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-05-missouri-targets",
+    "title": "Missouri Targets",
+    "url": "research/region-05-missouri-targets/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-06-nebraska-kansas",
+    "title": "Nebraska Kansas",
+    "url": "research/region-06-nebraska-kansas/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 8
+  },
+  {
+    "id": "region-07-indiana-illinois-iowa",
+    "title": "Indiana Illinois Iowa",
+    "url": "research/region-07-indiana-illinois-iowa/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 8
+  },
+  {
+    "id": "region-08-pennsylvania",
+    "title": "Pennsylvania",
+    "url": "research/region-08-pennsylvania/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 6
+  },
+  {
+    "id": "region-09-michigan",
+    "title": "Michigan",
+    "url": "research/region-09-michigan/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-10-ohio",
+    "title": "Ohio",
+    "url": "research/region-10-ohio/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 6
+  },
+  {
+    "id": "region-11-colorado-arizona",
+    "title": "Colorado Arizona",
+    "url": "research/region-11-colorado-arizona/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-12-carolinas-refresh",
+    "title": "Carolinas Refresh",
+    "url": "research/region-12-carolinas-refresh/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 8
+  },
+  {
+    "id": "region-31-virginia-refresh",
+    "title": "Virginia Refresh",
+    "url": "research/region-31-virginia-refresh/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 7
+  },
+  {
+    "id": "region-32-enterprise-platforms",
+    "title": "Enterprise Platforms",
+    "url": "research/region-32-enterprise-platforms/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 3
+  },
+  {
+    "id": "region-post-d25-builders",
+    "title": "Post-D25 construction and service launches",
+    "url": "research/region-post-d25-builders/",
+    "pages": [
+      "states",
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional operator dossiers",
+    "operators": 3
+  }
+]
