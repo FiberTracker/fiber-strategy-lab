@@ -2,7 +2,7 @@
   "title": "Where Southern targets add reach to Rightfiber",
   "lede": "The measured Yelcot and Aeneas components overlap the historical Ritter footprint at only 1.04% and 1.17% of their reported locations. Louisiana candidates require a geographic expansion case: neither Pelican nor Cajun shares a county with the measured Ritter residential-capable FTTP footprint.",
   "topLimit": "This is a December 31, 2025 location-availability comparison of selected historical legal filers. It does not certify the current combined Rightfiber network, construction, passings, customers or unserved market opportunity.",
-  "hubSummary": "New exact-location evidence for seven Southern target groups: Yelcot shares 128 reported locations with Ritter and Aeneas shares 910. Pelican and Cajun have neither exact overlap nor shared counties in this measured D25 residential-capable footprint. Explore the county audit and ownership limits.",
+  "hubSummary": "Compare exact D25 overlap for seven Southern target groups, then review the separate NATCO, Yelcot and Cajun funding and build stages. The Arkansas program lists a Ritter/NATCO pre-registration route; Cajun has signed-agreement and local-approval evidence. Neither proves a completed network addition.",
   "scope": "Buyer = E. Ritter Communications Holdings, Inc. (130427) in Arkansas, Louisiana and Tennessee. Great Plains Communications (130569) is not represented in these five target-state files and adds no measured component here. The September 2026 Rightfiber combination is publicly closed, but this historical comparison is not a complete current platform map.",
   "summaryLimit": "Buyer counts repeat across scenarios and must not be added. Target outside selected buyer = target set minus buyer set, not available homes to sell or assured acquisition benefits. Alabama and Florida files are complete; because neither selected buyer filer is represented, Dragonfly comparisons are left unscored. A low overlap percentage is not a seller or synergy screen.",
   "decisions": [
@@ -1035,6 +1035,85 @@
       "url": "https://dragonfly.net/news/dragonfly-internet-acquires-myakka-communications/",
       "date": "transaction finalized 2025-12-24; announced 2026-01",
       "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-AR-N1",
+      "title": "NATCO 75th anniversary page",
+      "url": "https://www.natconet.com/75thAnniversary",
+      "date": "Undated current page",
+      "accessed": "2026-09-20",
+      "note": "2026 event context; no publication or construction-start date."
+    },
+    {
+      "id": "BUILD-AR-A1",
+      "title": "Arkansas BEAD program",
+      "url": "https://broadband.arkansas.gov/bead/",
+      "date": "Undated current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-AR-A2",
+      "title": "Arkansas provisional awardee resources",
+      "url": "https://broadband.arkansas.gov/getting-started-provisional-awardees/",
+      "date": "Undated current page",
+      "accessed": "2026-09-20",
+      "note": "Resources have differing 2026 dates; these are not operator award or construction dates."
+    },
+    {
+      "id": "BUILD-AR-U1",
+      "title": "USDA FY2024 ReConnect Round 5 awards",
+      "url": "https://www.rd.usda.gov/media/file/download/fy24-reconnect-round-5-10172024.pdf",
+      "date": "2024-10-17",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-AR-Y2",
+      "title": "Yelcot news index",
+      "url": "https://www.yelcot.com/news/",
+      "date": "Undated current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-AR-Y3",
+      "title": "Yelcot Stone County grant news",
+      "url": "https://www.yelcot.com/news/yelcot-receives-grant-to-connect-more-than-1300-residential-and-commercial-properties-in-stone-county/",
+      "date": "2020-10-08",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-AR-Y4",
+      "title": "Yelcot two-project ReConnect news",
+      "url": "https://www.yelcot.com/news/us-department-of-agriculture-awards-71-million-for-two-high-speed-broadband-projects-in-north-central-arkansas/",
+      "date": "2020-01-21",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-LA-CJ01",
+      "title": "ConnectLA signed BEAD agreements announcement",
+      "url": "https://connect.la.gov/press-releases/louisiana-signs-its-largest-set-of-bead-agreements-by-coverage-to-date-moving-75k-locations-closer-to-construction",
+      "date": "2026-02-05",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-LA-CJ02",
+      "title": "ConnectLA initial BEAD infrastructure distribution announcement",
+      "url": "https://connect.la.gov/press-releases/louisiana-first-to-distribute-bead-infrastructure-dollars-advancing-statewide-broadband-buildout",
+      "date": "2026-02-16",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-LA-CJ03",
+      "title": "Vermilion Parish Police Jury minutes, July 15, 2026",
+      "url": "https://louisianapublicnotice.com/notices/634909",
+      "date": "meeting and approval 2026-07-15; committee recommendation 2026-07-01; publication 2026-07-29",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "BUILD-LA-CJ04",
+      "title": "ConnectLA official press release index",
+      "url": "https://connect.la.gov/press-releases",
+      "date": "current index; cited releases 2026-02-05 and 2026-02-16",
+      "accessed": "2026-09-20"
     }
   ],
   "inputs": [
@@ -1097,5 +1176,102 @@
       "shared_counties_with_exact_overlap_count": 1,
       "scope_note": "Pairwise NATCO-Yelcot check requested for the Marion overlap question. It is not additive to a portfolio total."
     }
-  ]
+  ],
+  "buildStageUpdate": {
+    "title": "Funding and build stages: NATCO, Yelcot and Cajun",
+    "asOf": "2026-09-20",
+    "scope": "Keep this evidence separate from the December 31, 2025 availability screen. It includes dated 2026 actions, undated company statements and older funding or application context. None establishes a new completed county footprint or a numeric increment to the FCC totals.",
+    "operators": [
+      {
+        "name": "NATCO: test the documented application route before a new partnership thesis",
+        "baseline": "5,573 residential-capable FTTP locations in Boone and Marion counties; zero exact overlap with the measured Ritter component.",
+        "events": [
+          {
+            "date": "Undated; accessed September 20, 2026",
+            "stage": "Company-reported award; mixed planned and underway work",
+            "text": "NATCO\u2019s undated anniversary page, accessed September 20, 2026, reports a $12.7 million BEAD award for its Flippin, Pyatt and Lead Hill exchanges, targeting more than 1,500 additional locations. It combines work underway with planned construction. The page does not date the construction start or establish completed locations, a project-stage split or an executed subgrant.",
+            "sourceIds": [
+              "BUILD-AR-N1",
+              "BUILD-AR-A1",
+              "BUILD-AR-A2"
+            ]
+          },
+          {
+            "date": "July 2025 pre-registration round; page accessed September 20, 2026",
+            "stage": "Program pre-registration only",
+            "text": "Arkansas\u2019s BEAD pre-registration list includes E. Ritter Communications and NATCO as a partnership. This establishes a program application route, not an award, executed partnership agreement, operating joint venture or physical connection.",
+            "sourceIds": [
+              "BUILD-AR-A1"
+            ]
+          }
+        ],
+        "commercial": "First establish whether the documented Ritter/NATCO application route became an agreement and whether it remains relevant. Then reconcile project scope, grant conditions, remaining capex and any assignment restrictions. This is an analytical diligence priority, not evidence that NATCO is available for sale.",
+        "limit": "No executed partnership or operating joint venture, funded project schedule, physical interconnection, service-ready addition or new county has been established. The company-reported additional locations are undefined and are not added to D25."
+      },
+      {
+        "name": "Yelcot / Mountain View Telephone Company: verify loan and construction status",
+        "baseline": "12,274 residential-capable FTTP locations across nine Arkansas counties; 128 exact shared locations with Ritter. Izard and Stone are already in this baseline.",
+        "events": [
+          {
+            "date": "October 17, 2024",
+            "stage": "Historical loan award",
+            "text": "USDA\u2019s October 17, 2024 award list records a $25,280,740 ReConnect loan for Mountain View Telephone Company\u2019s proposed FTTP deployment in Izard and Stone counties. The stated beneficiaries are 2,630 people, 46 businesses, 124 farms and six educational facilities. These are not location or passing counts. Current loan draws, outstanding debt and construction or service-ready progress are not established by that award notice.",
+            "sourceIds": [
+              "BUILD-AR-U1",
+              "BUILD-AR-A1"
+            ]
+          },
+          {
+            "date": "Bounded review on September 20, 2026",
+            "stage": "Current execution evidence gap",
+            "text": "No dated construction or ready-for-service milestone after December 31, 2025 was established in the company and government sources reopened for this bounded check. This is an evidence gap, not evidence that building stopped.",
+            "sourceIds": [
+              "BUILD-AR-U1",
+              "YELCOT-SERVICE",
+              "BUILD-AR-Y2",
+              "BUILD-AR-Y3",
+              "BUILD-AR-Y4",
+              "BUILD-AR-A1",
+              "BUILD-AR-A2"
+            ]
+          }
+        ],
+        "commercial": "Obtain the loan closing, draw balance, security and consent terms alongside the project ledger and service-ready schedule before evaluating acquisition funding or build capacity. Do not treat the historical award amount as present debt.",
+        "limit": "People, businesses, farms and educational facilities are distinct beneficiary categories. They are not summed or converted to homes passed. The review does not establish that construction stopped."
+      },
+      {
+        "name": "Cajun Broadband: signed agreements and local approval, with execution still to prove",
+        "baseline": "5,465 residential-capable FTTP locations across six Louisiana parishes; no exact overlap or shared parish with the measured Ritter component. Vermilion is already in this baseline.",
+        "events": [
+          {
+            "date": "February 5, 2026",
+            "stage": "Signed BEAD agreements",
+            "text": "On February 5, 2026, ConnectLA announced signed BEAD agreements with Cajun Broadband, Conexon, REV and Swyft Fiber covering 76,045 locations in aggregate. The release did not allocate locations, dollars or parishes to Cajun and described groundbreaking as expected in the coming weeks.",
+            "sourceIds": [
+              "BUILD-LA-CJ01",
+              "BUILD-LA-CJ04"
+            ]
+          },
+          {
+            "date": "February 16, 2026",
+            "stage": "Program payment announcement; operator receipt unverified",
+            "text": "On February 16, 2026, ConnectLA announced Louisiana's initial 10% BEAD infrastructure-payment distribution and listed Cajun among 11 providers with fully executed agreements. The release does not separately document receipt by Cajun or a Cajun-specific payment amount, receipt date or construction start.",
+            "sourceIds": [
+              "BUILD-LA-CJ02"
+            ]
+          },
+          {
+            "date": "Approval July 15, 2026; published July 29, 2026",
+            "stage": "Local no-objection approval",
+            "text": "At its July 15, 2026 meeting, the Vermilion Parish Police Jury approved its Public Road Committee's July 1 recommendation for a letter of no objection for Cajun Broadband's proposed 1- to 2-inch underground fiber conduit work involving 47 roads in districts 2, 10, 12 and 13. The minutes were published July 29. This establishes local no-objection approval, not construction or service readiness; the minutes do not identify a BEAD funding link.",
+            "sourceIds": [
+              "BUILD-LA-CJ03"
+            ]
+          }
+        ],
+        "commercial": "Prioritize Cajun-specific grant schedules, payment records, match requirements and mobilization evidence. Reconcile the Vermilion road list to permits and as-built routes before testing maintenance reach, physical connections or acquisition synergies.",
+        "limit": "The 76,045 locations are aggregate across four providers; the 47 count is roads. No Cajun-specific allocation or payment receipt, construction start, service-ready addition, new parish or BEAD link to the road work is established by these sources."
+      }
+    ]
+  }
 }
