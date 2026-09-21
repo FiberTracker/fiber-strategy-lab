@@ -2,7 +2,7 @@
   "slug": "brightspeed-reconciliation",
   "title": "Brightspeed: reconcile FCC availability with the build story",
   "lede": "The full 20-state filing count is 1.79 million residential-capable FTTP locations. Brightspeed separately reported more than 3 million fiber-enabled locations in April 2026. Geography explains part of the original shortfall; the remaining definitions still need an address-level bridge.",
-  "scope": "Public research as of September 20,2026. FCC availability as of December 31,2025; current retained file revision September 15,2026. Company figures are dated reported measures, not audited equivalence to FCC locations.",
+  "scope": "Public research as of September 20, 2026. FCC availability as of December 31, 2025; current retained file revision September 15, 2026. Company figures are dated reported measures, not audited equivalence to FCC locations.",
   "pages": [
     "states",
     "rightfiber"
@@ -58,7 +58,7 @@
           [
             "Compare company reported thresholds",
             "Unreconciled",
-            "October 3,2025:more than 2.5 million locations reached; April 2,2026:more than 3 million fiber-enabled locations. Dates, units and readiness definitions differ. No implied overstatement or under-filing finding. [P05] [P01]"
+            "October 3, 2025: more than 2.5 million locations reached; April 2, 2026: more than 3 million fiber-enabled locations. Dates, units and readiness definitions differ. No implied overstatement or under-filing finding. [P05] [P01]"
           ]
         ]
       },
@@ -82,7 +82,7 @@
           ],
           [
             "Filing vintage and construction timing",
-            "D25 availability is December 31,2025; September 2026 is the file revision. April 2026 is a later company milestone. [P01] [P18]",
+            "D25 availability is December 31, 2025; September 2026 is the file revision. April 2026 is a later company milestone. [P01] [P18]",
             "Comparable monthly state/location cohorts; lower-bound milestone differences are not exact build additions."
           ],
           [
@@ -107,7 +107,7 @@
           ],
           [
             "RDOF reporting validation",
-            "January 9,2026 letter describes potential milestone issues in eight states. [P06]",
+            "January 9, 2026 letter describes potential milestone issues in eight states. [P06]",
             "Its serviceability/Fabric-ID caveat is RDOF-specific and does not allocate a platform-wide residual."
           ]
         ]
@@ -191,15 +191,15 @@
       "title": "Use the right corporate perimeter",
       "nav": "Entity map",
       "paragraphs": [
-        "The 20-state Lumen ILEC transaction closed October 3,2022. FCC approval was adopted and released August 19; Lumen announced approval August 22. Approval and closing are separate dates. [P09] [P10] [P11]",
+        "The 20-state Lumen ILEC transaction closed October 3, 2022. FCC approval was adopted and released August 19; Lumen announced approval August 22. Approval and closing are separate dates. [P09] [P10] [P11]",
         "The December 2023 FCC ruling places Connect Holding II beneath Connect Holding, then Connect Midco, Connect Intermediate and Connect Parent. It calls Connect Holding II immediate parent of ten wireless licensees; that does not make it direct parent of every operating company. [P12]",
         "Lumen retained national fiber routes and associated networks, along with ILEC operations in 16 states. Do not move retained Lumen, Qwest or Level 3 assets into Brightspeed by name similarity. [P11]",
-        "South Carolina approved selected affiliate fiber-asset transfers and leasebacks on August 14,2026. The order does not prove consummation, exact-span title or implementation in all 20 states. The April 17 application provides Fiber Connection and Fiber Services name histories, including June 2,2025 changes. These entity changes establish no extra FCC locations by themselves. [P13] [P14]"
+        "South Carolina approved selected affiliate fiber-asset transfers and leasebacks on August 14, 2026. The order does not prove consummation, exact-span title or implementation in all 20 states. The April 17 application provides Fiber Connection and Fiber Services name histories, including June 2, 2025 changes. These entity changes establish no extra FCC locations by themselves. [P13] [P14]"
       ]
     },
     {
       "id": "states",
-      "title": "The exact20-state FCC filer screen",
+      "title": "The exact 20-state FCC filer screen",
       "nav": "State audit",
       "paragraphs": [
         "All counts below are unique location_id values under provider 470022, technology 50 and R/X, using current D25_15 sep 2026 mixed-technology Provider Location Coverage files. These are not whole-state files. They do not measure subscribers, occupied homes, construction or enterprise routes."
