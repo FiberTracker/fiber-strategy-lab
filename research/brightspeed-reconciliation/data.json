@@ -1,0 +1,914 @@
+{
+  "slug": "brightspeed-reconciliation",
+  "title": "Brightspeed: reconcile FCC availability with the build story",
+  "lede": "The full 20-state filing count is 1.79 million residential-capable FTTP locations. Brightspeed separately reported more than 3 million fiber-enabled locations in April 2026. Geography explains part of the original shortfall; the remaining definitions still need an address-level bridge.",
+  "scope": "Public research as of September 20,2026. FCC availability as of December 31,2025; current retained file revision September 15,2026. Company figures are dated reported measures, not audited equivalence to FCC locations.",
+  "pages": [
+    "states",
+    "rightfiber"
+  ],
+  "type": "Measurement reconciliation",
+  "asOf": "2026-09-20",
+  "sections": [
+    {
+      "id": "answer",
+      "title": "The public build story is larger than the FCC availability count",
+      "nav": "Conclusion",
+      "paragraphs": [
+        "Brightspeed reported more than 3 million fiber-enabled locations on April 2, 2026. A fresh count of every current D25 provider file for Connect Holding II LLC, provider 470022, produces 1,793,485 unique technology-50 residential-capable locations across 20 states. These are different dated measures; neither should replace the other without a location-and-unit bridge. [P01] [FCCCAT]",
+        "The FCC count now covers every state listed for this verified filer. That resolves the prior geographical omission, but does not prove that no additional legal filer should be included. No additional filer increment has been established by the reviewed corporate records. Legacy CenturyLink or United Telephone names alone are insufficient. [P09] [P12]"
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "What the expanded FCC reconciliation actually explains",
+      "nav": "Count reconciliation",
+      "table": {
+        "columns": [
+          "Step",
+          "R/X FTTP locations",
+          "Interpretation"
+        ],
+        "rows": [
+          [
+            "Existing 15-state atlas subtotal",
+            "1,681,717",
+            "D25; mixed retained revisions. It was a scoped subtotal, not the full 20-state filer count."
+          ],
+          [
+            "Add Georgia, Mississippi, New Jersey, Oklahoma and Wisconsin",
+            "+111,769",
+            "Newly covered states:15,320;3,649;39,793;23;52,984 respectively. [FCC13] [FCC28] [FCC34] [FCC40] [FCC55]"
+          ],
+          [
+            "Refresh retained North Carolina input",
+            "\u22121",
+            "Current provider file yields 463,300 versus prior 463,301; a filing-revision difference, not a construction estimate. [FCC37]"
+          ],
+          [
+            "Current 20-state filer union",
+            "1,793,485",
+            "All 20 mixed-technology provider files validated against catalog raw-row counts. Technology 50 R/X location IDs globally deduplicated; no cross-state duplicate IDs found."
+          ],
+          [
+            "Add business-only locations outside R/X",
+            "0",
+            "For these 20 files, the unique all-service FTTP set equals the R/X set. Business-only filtering does not explain a positive gap in this measured filer."
+          ],
+          [
+            "Compare company reported thresholds",
+            "Unreconciled",
+            "October 3,2025:more than 2.5 million locations reached; April 2,2026:more than 3 million fiber-enabled locations. Dates, units and readiness definitions differ. No implied overstatement or under-filing finding. [P05] [P01]"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "hypotheses",
+      "title": "Test the remaining explanations without inventing a multiplier",
+      "nav": "Open bridge",
+      "table": {
+        "columns": [
+          "Potential explanation",
+          "What is established",
+          "What remains necessary"
+        ],
+        "rows": [
+          [
+            "Geographic omission",
+            "Five omitted states add 111,769 locations.",
+            "Geography explains this portion of the former subtotal difference, not the remaining company-to-FCC gap."
+          ],
+          [
+            "Filing vintage and construction timing",
+            "D25 availability is December 31,2025; September 2026 is the file revision. April 2026 is a later company milestone. [P01] [P18]",
+            "Comparable monthly state/location cohorts; lower-bound milestone differences are not exact build additions."
+          ],
+          [
+            "Buildings versus dwelling units",
+            "FCC BSLs represent structures; an MDU can have multiple units under one BSL. [P15]",
+            "Brightspeed\u2019s counting definition and a same-location Fabric unit-count join. No supported Brightspeed-specific multiplier yet."
+          ],
+          [
+            "Passed versus installable",
+            "The January 2025 release gives approximately 1.82 million passings and separately describes immediate installations for hundreds of thousands. It does not reconcile those populations. [P02]",
+            "Property/address readiness, service-order eligibility, final drops and acceptance dates. Do not quantify a readiness gap from broad marketing language."
+          ],
+          [
+            "Additional subsidiaries or legal filers",
+            "Connect Holding II is the verified current catalog filer. Group legal entities include legacy ILECs and fiber affiliates. [FCCCAT] [P12] [P14]",
+            "Documented additional provider IDs plus deduplicated location sets; no automatic addition of retained Lumen assets."
+          ],
+          [
+            "Inherited fiber counted twice",
+            "Brightspeed reported 200,000 existing fiber-enabled addresses at launch. [P08]",
+            "Confirm inclusion in each later milestone before adding or subtracting the inherited base."
+          ],
+          [
+            "RDOF reporting validation",
+            "January 9,2026 letter describes potential milestone issues in eight states. [P06]",
+            "Its serviceability/Fabric-ID caveat is RDOF-specific and does not allocate a platform-wide residual."
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "timeline",
+      "title": "Reported build milestones and future targets",
+      "nav": "Milestones",
+      "paragraphs": [
+        "Company measures retain their original units and dates. More-than figures are thresholds, not exact observations. Several live newsroom headers disagree with body datelines; the dated source notes preserve both."
+      ],
+      "table": {
+        "columns": [
+          "Measurement / announcement date",
+          "Disclosed quantity and unit",
+          "Status",
+          "Limit and source"
+        ],
+        "rows": [
+          [
+            "2022-10-03",
+            "200,000 existing fiber-enabled addresses",
+            "Inherited fiber at launch",
+            "Company report; later inclusion unresolved. [P08]"
+          ],
+          [
+            "2024-08-13",
+            "1,400,000 homes and businesses with fiber connectivity",
+            "Achieved company report",
+            "Body dateline, not live header date. [P03]"
+          ],
+          [
+            "2024-12-31",
+            "1,820,000 approximately locations passed",
+            "Year-end achieved company report",
+            "Published in body dated January 7, 2025; approximation. [P02]"
+          ],
+          [
+            "2025-08-15",
+            "2,300,000 more than premises passed",
+            "Achieved company lower bound",
+            "Not an exact count. [P04]"
+          ],
+          [
+            "2025-10-03",
+            "2,500,000 more than locations reached",
+            "Achieved company lower bound",
+            "Body dateline; provisional grants excluded from achieved total. [P05]"
+          ],
+          [
+            "2026-02-09",
+            "2,800,000 more than locations reached",
+            "Achieved company lower bound",
+            "No conversion to December 31 availability. [P07]"
+          ],
+          [
+            "2026-04-02",
+            "3,000,000 more than fiber-enabled locations",
+            "Achieved company lower bound",
+            "Latest such dated milestone located in bounded check; not an exact cutoff-date count. [P01]"
+          ],
+          [
+            "2026-12-31 target",
+            "4,000,000 homes",
+            "Future target",
+            "Target only. [P01]"
+          ],
+          [
+            "Ultimate target, date unspecified",
+            "5,000,000 more than homes and businesses",
+            "Future target",
+            "Target only. [P01]"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "entities",
+      "title": "Use the right corporate perimeter",
+      "nav": "Entity map",
+      "paragraphs": [
+        "The 20-state Lumen ILEC transaction closed October 3,2022. FCC approval was adopted and released August 19; Lumen announced approval August 22. Approval and closing are separate dates. [P09] [P10] [P11]",
+        "The December 2023 FCC ruling places Connect Holding II beneath Connect Holding, then Connect Midco, Connect Intermediate and Connect Parent. It calls Connect Holding II immediate parent of ten wireless licensees; that does not make it direct parent of every operating company. [P12]",
+        "Lumen retained national fiber routes and associated networks, along with ILEC operations in 16 states. Do not move retained Lumen, Qwest or Level 3 assets into Brightspeed by name similarity. [P11]",
+        "South Carolina approved selected affiliate fiber-asset transfers and leasebacks on August 14,2026. The order does not prove consummation, exact-span title or implementation in all 20 states. The April 17 application provides Fiber Connection and Fiber Services name histories, including June 2,2025 changes. These entity changes establish no extra FCC locations by themselves. [P13] [P14]"
+      ]
+    },
+    {
+      "id": "states",
+      "title": "The exact20-state FCC filer screen",
+      "nav": "State audit",
+      "paragraphs": [
+        "All counts below are unique location_id values under provider 470022, technology 50 and R/X, using current D25_15 sep 2026 mixed-technology Provider Location Coverage files. These are not whole-state files. They do not measure subscribers, occupied homes, construction or enterprise routes."
+      ],
+      "table": {
+        "columns": [
+          "State",
+          "Unique R/X FTTP locations",
+          "Change from retained atlas",
+          "Current source"
+        ],
+        "rows": [
+          [
+            "Alabama",
+            "107,188",
+            "+0",
+            "[FCC01]"
+          ],
+          [
+            "Arkansas",
+            "71,704",
+            "+0",
+            "[FCC05]"
+          ],
+          [
+            "Georgia",
+            "15,320",
+            "Newly included",
+            "[FCC13]"
+          ],
+          [
+            "Illinois",
+            "19,863",
+            "+0",
+            "[FCC17]"
+          ],
+          [
+            "Indiana",
+            "77,992",
+            "+0",
+            "[FCC18]"
+          ],
+          [
+            "Kansas",
+            "25,844",
+            "+0",
+            "[FCC20]"
+          ],
+          [
+            "Louisiana",
+            "26,980",
+            "+0",
+            "[FCC22]"
+          ],
+          [
+            "Michigan",
+            "9,043",
+            "+0",
+            "[FCC26]"
+          ],
+          [
+            "Mississippi",
+            "3,649",
+            "Newly included",
+            "[FCC28]"
+          ],
+          [
+            "Missouri",
+            "177,735",
+            "+0",
+            "[FCC29]"
+          ],
+          [
+            "New Jersey",
+            "39,793",
+            "Newly included",
+            "[FCC34]"
+          ],
+          [
+            "North Carolina",
+            "463,300",
+            "-1",
+            "[FCC37]"
+          ],
+          [
+            "Ohio",
+            "218,323",
+            "+0",
+            "[FCC39]"
+          ],
+          [
+            "Oklahoma",
+            "23",
+            "Newly included",
+            "[FCC40]"
+          ],
+          [
+            "Pennsylvania",
+            "117,252",
+            "+0",
+            "[FCC42]"
+          ],
+          [
+            "South Carolina",
+            "30,036",
+            "+0",
+            "[FCC45]"
+          ],
+          [
+            "Tennessee",
+            "113,330",
+            "+0",
+            "[FCC47]"
+          ],
+          [
+            "Texas",
+            "145,408",
+            "+0",
+            "[FCC48]"
+          ],
+          [
+            "Virginia",
+            "77,718",
+            "+0",
+            "[FCC51]"
+          ],
+          [
+            "Wisconsin",
+            "52,984",
+            "Newly included",
+            "[FCC55]"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "request",
+      "title": "The next useful data request",
+      "nav": "Next diligence",
+      "bullets": [
+        "One dated address/BSL/unit bridge: acquired fiber, newly constructed passing, ready for service, orderable location, installed account and paying subscriber.",
+        "Monthly build and service-ready cohorts by state and legal filer, with the same units and a reconciliation to the filed FCC submission.",
+        "A current legal-entity and FCC-provider crosswalk, including transferred affiliates and retained Lumen assets, with duplicate-location controls.",
+        "Keep the public thresholds, measured FCC locations and any management figures in separate labeled columns until this bridge is delivered."
+      ],
+      "paragraphs": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "P01",
+      "title": "Brightspeed surpasses 3M fiber-enabled locations",
+      "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Surpasses_3M_Fiber-Enabled_Locations/",
+      "date": "2026-04-02",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P02",
+      "title": "Brightspeed year-end build reaches approximately 1.82M locations",
+      "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Fiber_Internet_Network_Build_Exceeds_YearEnd_Goal_FiberEnabled_Locations/",
+      "date": "2025-01-07; Body dateline; live page header says 2025-11-17. Measurement refers to year-end 2024.",
+      "accessed": "2026-09-20",
+      "date_basis": "Body dateline; live page header says 2025-11-17. Measurement refers to year-end 2024."
+    },
+    {
+      "id": "P03",
+      "title": "Brightspeed next era of growth and recapitalization",
+      "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Enters_Next_Era_of_Growth_as_Fiber_Broadband_Leader/",
+      "date": "2024-08-13; Body dateline; live page header says 2025-11-13.",
+      "accessed": "2026-09-20",
+      "date_basis": "Body dateline; live page header says 2025-11-13."
+    },
+    {
+      "id": "P04",
+      "title": "Brightspeed August 2025 capital offering and footprint",
+      "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Raises_1point65B_Increasing_New_Total_Capital_to_5point9B/",
+      "date": "2025-08-15",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P05",
+      "title": "Brightspeed provisional BEAD awards and achieved footprint",
+      "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_BEAD_Wins_Total_528M/",
+      "date": "2025-10-03; Body dateline; live page header says 2025-11-07.",
+      "accessed": "2026-09-20",
+      "date_basis": "Body dateline; live page header says 2025-11-07."
+    },
+    {
+      "id": "P06",
+      "title": "Brightspeed RDOF 40% notification, Missouri PSC public copy",
+      "url": "https://efis.psc.mo.gov/Document/Display/862901",
+      "date": "2026-01-09",
+      "accessed": "2026-09-20",
+      "locator": "Pages 1-2; corporate assertion and RDOF validation caveat have different scopes."
+    },
+    {
+      "id": "P07",
+      "title": "Brightspeed WiFi 7 release with achieved fiber footprint",
+      "url": "https://www.brightspeed.com/content/dam/brightspeed/pdfs/WiFi7_Launch_PressRelease_020926_FINAL.pdf",
+      "date": "2026-02-09",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P08",
+      "title": "Brightspeed launches operations after Lumen acquisition",
+      "url": "https://www.brightspeed.com/brightspeed-news/brightspeed-launches-operations-and-begins-large-scale-fiber-network-deployment/",
+      "date": "2022-10-03",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P09",
+      "title": "FCC DA 22-871 transfer approval",
+      "url": "https://docs.fcc.gov/public/attachments/DA-22-871A1.pdf",
+      "date": "2022-08-19",
+      "accessed": "2026-09-20",
+      "access_method": "Direct PDF request returned 403; official-domain indexed primary text independently retrieved, including first-page adopted/released date and paragraph 2 footnote 6 state list.",
+      "locator": "Page 1; paragraph 2 and footnote 6."
+    },
+    {
+      "id": "P10",
+      "title": "Lumen Form 8-K reporting completed sale",
+      "url": "https://www.sec.gov/Archives/edgar/data/18926/000119312522256669/d334086d8k.htm",
+      "date": "2022-10-03",
+      "accessed": "2026-09-20",
+      "locator": "Item 2.01."
+    },
+    {
+      "id": "P11",
+      "title": "Lumen announces FCC approval and retained assets",
+      "url": "https://ir.lumen.com/news/news-details/2022/FCC-approves-sale-of-Lumen-assets-to-Brightspeed/default.aspx",
+      "date": "2022-08-22",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P12",
+      "title": "FCC DA 23-1195 Connect Holding II foreign-ownership ruling",
+      "url": "https://docs.fcc.gov/public/attachments/DA-23-1195A1.pdf",
+      "date": "2023-12-20",
+      "accessed": "2026-09-20",
+      "access_method": "Direct PDF request failed; official-domain indexed primary text independently retrieved.",
+      "locator": "Connect Holding II petition narrative, page 4; ten wireless licensees, not all operating subsidiaries."
+    },
+    {
+      "id": "P13",
+      "title": "South Carolina PSC Order 2026-449",
+      "url": "https://dms.psc.sc.gov/Attachments/Order/03f9a92c-d16b-40ad-a995-58c344effc69",
+      "date": "2026-08-14",
+      "accessed": "2026-09-20",
+      "locator": "Docket 2026-107-C; pages 3-4 and ordering provisions page 7. Some internal page headers contain 2026-107-E."
+    },
+    {
+      "id": "P14",
+      "title": "South Carolina joint fiber-asset transfer application",
+      "url": "https://dms.psc.sc.gov/Attachments/Matter/eda65f56-0c1c-408d-93a6-e28f6a8eb584",
+      "date": "2026-04-17",
+      "accessed": "2026-09-20",
+      "locator": "Docket 2026-107-C, application pages 2-3 and page 5 footnote 4."
+    },
+    {
+      "id": "P15",
+      "title": "FCC definition of a Broadband Serviceable Location",
+      "url": "https://help.bdc.fcc.gov/hc/en-us/articles/16842264428059-About-the-Fabric-What-a-Broadband-Serviceable-Location-BSL-Is-and-Is-Not",
+      "date": "2025-07-31",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "P18",
+      "title": "FCC fixed broadband availability data overview",
+      "url": "https://help.bdc.fcc.gov/hc/en-us/articles/5290946484763-Fixed-Broadband-Availability-Data-Overview",
+      "date": "2025-02-28",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCCCAT",
+      "title": "FCC D25 live Provider / Location Coverage catalog",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/listAvailabilityData/2025-12-31?category=Provider&subcategory=Location%20Coverage&technology_type=Fixed%20Broadband",
+      "date": "Availability 2025-12-31; revision D25_15sep2026; retrieved September 20 ET",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC01",
+      "title": "Alabama Connect Holding II LLC provider source 1794010",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794010",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC05",
+      "title": "Arkansas Connect Holding II LLC provider source 1794011",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794011",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC13",
+      "title": "Georgia Connect Holding II LLC provider source 1794012",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794012",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC17",
+      "title": "Illinois Connect Holding II LLC provider source 1794013",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794013",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC18",
+      "title": "Indiana Connect Holding II LLC provider source 1794014",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794014",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC20",
+      "title": "Kansas Connect Holding II LLC provider source 1794015",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794015",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC22",
+      "title": "Louisiana Connect Holding II LLC provider source 1794016",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794016",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC26",
+      "title": "Michigan Connect Holding II LLC provider source 1794017",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794017",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC28",
+      "title": "Mississippi Connect Holding II LLC provider source 1794018",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794018",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC29",
+      "title": "Missouri Connect Holding II LLC provider source 1794019",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794019",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC34",
+      "title": "New Jersey Connect Holding II LLC provider source 1794020",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794020",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC37",
+      "title": "North Carolina Connect Holding II LLC provider source 1794021",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794021",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC39",
+      "title": "Ohio Connect Holding II LLC provider source 1794022",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794022",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC40",
+      "title": "Oklahoma Connect Holding II LLC provider source 1794023",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794023",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC42",
+      "title": "Pennsylvania Connect Holding II LLC provider source 1794024",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794024",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC45",
+      "title": "South Carolina Connect Holding II LLC provider source 1794025",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794025",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC47",
+      "title": "Tennessee Connect Holding II LLC provider source 1794026",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794026",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC48",
+      "title": "Texas Connect Holding II LLC provider source 1794027",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794027",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC51",
+      "title": "Virginia Connect Holding II LLC provider source 1794028",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794028",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC55",
+      "title": "Wisconsin Connect Holding II LLC provider source 1794029",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794029",
+      "date": "Availability 2025-12-31; D25_15sep2026",
+      "accessed": "2026-09-20"
+    }
+  ],
+  "measurement": {
+    "provider_id": "470022",
+    "legal_filer": "Connect Holding II LLC",
+    "vintage": "2025-12-31",
+    "state_count": 20,
+    "unique_rx_locations": 1793485,
+    "unique_all_service_locations": 1793485,
+    "cross_state_duplicates": 0
+  },
+  "inputAudit": [
+    {
+      "state_fips": "01",
+      "file_id": "1794010",
+      "file_name": "bdc_01_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794010",
+      "sha256": "c399e0cdd92f21940c65560b957ec1b3299da1eee678b899f4f86ecc670ea395",
+      "catalog_rows": 285556,
+      "raw_rows": 285556,
+      "technology_50_rows": 107188,
+      "unique_rx_locations": 107188,
+      "unique_all_service_locations": 107188
+    },
+    {
+      "state_fips": "05",
+      "file_id": "1794011",
+      "file_name": "bdc_05_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794011",
+      "sha256": "4d14ab9f92363b84cecd82168b1cd92d57a4ab3a0faed059e871a617a0bed9af",
+      "catalog_rows": 229906,
+      "raw_rows": 229906,
+      "technology_50_rows": 71704,
+      "unique_rx_locations": 71704,
+      "unique_all_service_locations": 71704
+    },
+    {
+      "state_fips": "13",
+      "file_id": "1794012",
+      "file_name": "bdc_13_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794012",
+      "sha256": "84cd8b8d3bd25db37968d265009c5905bf3e665bf03814ba05953f1e9dd49051",
+      "catalog_rows": 30593,
+      "raw_rows": 30593,
+      "technology_50_rows": 15320,
+      "unique_rx_locations": 15320,
+      "unique_all_service_locations": 15320
+    },
+    {
+      "state_fips": "17",
+      "file_id": "1794013",
+      "file_name": "bdc_17_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794013",
+      "sha256": "92f720181bc76adac9b01651ecf55126968b08040776343719b6dc9134ef1517",
+      "catalog_rows": 52750,
+      "raw_rows": 52750,
+      "technology_50_rows": 19863,
+      "unique_rx_locations": 19863,
+      "unique_all_service_locations": 19863
+    },
+    {
+      "state_fips": "18",
+      "file_id": "1794014",
+      "file_name": "bdc_18_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794014",
+      "sha256": "7434b5f8f1b64e35295784ffefbb9f3ab1c1549b17f8f5fc3b23964b7d4302a4",
+      "catalog_rows": 218826,
+      "raw_rows": 218826,
+      "technology_50_rows": 77992,
+      "unique_rx_locations": 77992,
+      "unique_all_service_locations": 77992
+    },
+    {
+      "state_fips": "20",
+      "file_id": "1794015",
+      "file_name": "bdc_20_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794015",
+      "sha256": "3bd790ec1857dc9d8f782c4ae52e2a9eac95cb9fbac215106c1b515d9e2445ad",
+      "catalog_rows": 105681,
+      "raw_rows": 105681,
+      "technology_50_rows": 25844,
+      "unique_rx_locations": 25844,
+      "unique_all_service_locations": 25844
+    },
+    {
+      "state_fips": "22",
+      "file_id": "1794016",
+      "file_name": "bdc_22_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794016",
+      "sha256": "a1ca35c4430a301bed50bbe1a3a6378624f808a81edb77e23ff8d5e597e7c4d8",
+      "catalog_rows": 79598,
+      "raw_rows": 79598,
+      "technology_50_rows": 26980,
+      "unique_rx_locations": 26980,
+      "unique_all_service_locations": 26980
+    },
+    {
+      "state_fips": "26",
+      "file_id": "1794017",
+      "file_name": "bdc_26_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794017",
+      "sha256": "84fb7397297da4b1f71da09fd22119a53b70dc4655973d5106c2ee3aa6826697",
+      "catalog_rows": 90969,
+      "raw_rows": 90969,
+      "technology_50_rows": 9043,
+      "unique_rx_locations": 9043,
+      "unique_all_service_locations": 9043
+    },
+    {
+      "state_fips": "28",
+      "file_id": "1794018",
+      "file_name": "bdc_28_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794018",
+      "sha256": "e2466e69c7475d73cb94f50faa826f3862a924bc18fe68e3803b47085071dcd7",
+      "catalog_rows": 26320,
+      "raw_rows": 26320,
+      "technology_50_rows": 3649,
+      "unique_rx_locations": 3649,
+      "unique_all_service_locations": 3649
+    },
+    {
+      "state_fips": "29",
+      "file_id": "1794019",
+      "file_name": "bdc_29_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794019",
+      "sha256": "cef6ba1a5553e0362c8a6c16f92aebd63962036ed102a46345f6567e31bb8ca0",
+      "catalog_rows": 600630,
+      "raw_rows": 600630,
+      "technology_50_rows": 177735,
+      "unique_rx_locations": 177735,
+      "unique_all_service_locations": 177735
+    },
+    {
+      "state_fips": "34",
+      "file_id": "1794020",
+      "file_name": "bdc_34_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794020",
+      "sha256": "de04f74534bc3dcd2d46910c02b3e005c3f9f4e22652ccde5e654f582200802f",
+      "catalog_rows": 97851,
+      "raw_rows": 97851,
+      "technology_50_rows": 39793,
+      "unique_rx_locations": 39793,
+      "unique_all_service_locations": 39793
+    },
+    {
+      "state_fips": "37",
+      "file_id": "1794021",
+      "file_name": "bdc_37_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794021",
+      "sha256": "11f74e5e21164872e4995d6baff1ef5328c5c038e7f5476dc63193771724f76c",
+      "catalog_rows": 1240803,
+      "raw_rows": 1240803,
+      "technology_50_rows": 463300,
+      "unique_rx_locations": 463300,
+      "unique_all_service_locations": 463300
+    },
+    {
+      "state_fips": "39",
+      "file_id": "1794022",
+      "file_name": "bdc_39_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794022",
+      "sha256": "f4a09e2f0ca2a445f73079206e810eeb3cf46df109c4a2d10644db723942ef7e",
+      "catalog_rows": 504063,
+      "raw_rows": 504063,
+      "technology_50_rows": 218323,
+      "unique_rx_locations": 218323,
+      "unique_all_service_locations": 218323
+    },
+    {
+      "state_fips": "40",
+      "file_id": "1794023",
+      "file_name": "bdc_40_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794023",
+      "sha256": "2df47c38e044ea648ce3edc9ef957277c4d1b2e4a99784ce7b547d7cccf4b4b6",
+      "catalog_rows": 1672,
+      "raw_rows": 1672,
+      "technology_50_rows": 23,
+      "unique_rx_locations": 23,
+      "unique_all_service_locations": 23
+    },
+    {
+      "state_fips": "42",
+      "file_id": "1794024",
+      "file_name": "bdc_42_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794024",
+      "sha256": "8d584f90f93d71556092df410de70917084ac823f015ac634e47a796ba33f0c0",
+      "catalog_rows": 290279,
+      "raw_rows": 290279,
+      "technology_50_rows": 117252,
+      "unique_rx_locations": 117252,
+      "unique_all_service_locations": 117252
+    },
+    {
+      "state_fips": "45",
+      "file_id": "1794025",
+      "file_name": "bdc_45_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794025",
+      "sha256": "df528f2d4b8a11725c63bff9ab6a8b3e4f937a887a096f1918e061c1b364c96f",
+      "catalog_rows": 77594,
+      "raw_rows": 77594,
+      "technology_50_rows": 30036,
+      "unique_rx_locations": 30036,
+      "unique_all_service_locations": 30036
+    },
+    {
+      "state_fips": "47",
+      "file_id": "1794026",
+      "file_name": "bdc_47_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794026",
+      "sha256": "99cdf82106ef11cca4f538d4af167934081d0487de06a17e8fd677451e9e7e3e",
+      "catalog_rows": 211661,
+      "raw_rows": 211661,
+      "technology_50_rows": 113330,
+      "unique_rx_locations": 113330,
+      "unique_all_service_locations": 113330
+    },
+    {
+      "state_fips": "48",
+      "file_id": "1794027",
+      "file_name": "bdc_48_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794027",
+      "sha256": "cbc09c55dc39b4f8730bbbc552f3bde09345c7e9dec90a601f44d2ed191dcba1",
+      "catalog_rows": 343776,
+      "raw_rows": 343776,
+      "technology_50_rows": 145408,
+      "unique_rx_locations": 145408,
+      "unique_all_service_locations": 145408
+    },
+    {
+      "state_fips": "51",
+      "file_id": "1794028",
+      "file_name": "bdc_51_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794028",
+      "sha256": "2eb451d175f99b5b4be9241582ac537696fb510db2574353e379a9cd40d15f7c",
+      "catalog_rows": 316659,
+      "raw_rows": 316659,
+      "technology_50_rows": 77718,
+      "unique_rx_locations": 77718,
+      "unique_all_service_locations": 77718
+    },
+    {
+      "state_fips": "55",
+      "file_id": "1794029",
+      "file_name": "bdc_55_470022_fixed_broadband_D25_15sep2026",
+      "data_revision": "D25_15sep2026",
+      "source_type": "Complete Provider Location Coverage mixed-technology source",
+      "source_url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794029",
+      "sha256": "c71a62ccb955750415759d52f3712de98d8ab4b85a962cb6f279a55214279f50",
+      "catalog_rows": 286542,
+      "raw_rows": 286542,
+      "technology_50_rows": 52984,
+      "unique_rx_locations": 52984,
+      "unique_all_service_locations": 52984
+    }
+  ]
+}

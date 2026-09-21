@@ -1,5 +1,1727 @@
 [
   {
+    "id": "midwest-ownership-news",
+    "title": "Midwest ownership, build stages and transaction watch",
+    "url": "research/midwest-ownership-news/",
+    "pages": [
+      "rightfiber",
+      "greatplains"
+    ],
+    "type": "Regional ownership and news",
+    "words": 3674,
+    "sources": [
+      {
+        "id": "MW01",
+        "title": "Grain Management completes combination forming Rightfiber",
+        "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW02",
+        "title": "Great Plains Communications completes purchase of InterCarrier Networks",
+        "url": "https://gpcom.com/wp-content/uploads/2019/11/ICN-Acquisition-Complete-PressRelease080619.pdf",
+        "date": "2019-08-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW03",
+        "title": "Great Plains Communications completes acquisition of Enhanced Telecommunications Corporation",
+        "url": "https://gpcom.com/wp-content/uploads/2020/09/GPC-Completes-Acquisition-ETC-Press-Release-09172020.pdf",
+        "date": "2020-09-17",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW04",
+        "title": "Zayo completes acquisition of Intelligent Fiber Network",
+        "url": "https://www.zayo.com/newsroom/zayo-completes-acquisition-of-intelligent-fiber-network/",
+        "date": "2021-06-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW05",
+        "title": "FCC DA 22-851, proposed transfer of Computer Techniques to Joink Holdings",
+        "url": "https://docs.fcc.gov/public/attachments/DA-22-851A1.pdf",
+        "date": "2022-08-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW06",
+        "title": "FCC DA 26-93, proposed acquisition of certain Clearwave assets by Metro CW Holdings",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-93A1.pdf",
+        "date": "2026-01-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW07",
+        "title": "FCC DA 26-236, authorization for acquisition of certain Clearwave assets by Metro CW Holdings",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-236A1.pdf",
+        "date": "2026-03-12",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW08",
+        "title": "Conxxus announces MTCO Communications joining Metro and Conxxus",
+        "url": "https://conxxus.com/about-conxxus/blog/category/press-releases",
+        "date": "2026-02-05; transaction effective 2026-01-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW09",
+        "title": "Kirkland advises Metro on second securitization issuance",
+        "url": "https://www.kirkland.com/news/press-release/2026/06/kirkland-advises-metro-communications-on-completion-of-second-securitization-issuance-at-459-million",
+        "date": "2026-06-24; financing closed 2026-06-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW10",
+        "title": "Conxxus Clifton fiber investment",
+        "url": "https://conxxus.com/about-conxxus/blog/category/press-releases/article/2026/02/clifton-open-house",
+        "date": "2026-02-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW11",
+        "title": "Macquarie Capital leads continued investment in Surf Internet",
+        "url": "https://surfinternet.com/news/macquarie-capital-leads-continued-investment-in-surf-internet/",
+        "date": "2026-01-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW12",
+        "title": "Surf Internet closes $407 million inaugural fiber ABS",
+        "url": "https://surfinternet.com/news/surf-internet-closes-407-million-inaugural-fiber-abs-with-strong-investor-demand/",
+        "date": "2026-03-04",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW13",
+        "title": "Surf reports service available to more than 300,000 homes and businesses",
+        "url": "https://surfinternet.com/news/surf-internet-honored-with-fiber-broadband-associations-2026-star-award/",
+        "date": "2026-05-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW14",
+        "title": "Surf announces Muncie and Yorktown fiber build",
+        "url": "https://surfinternet.com/news/surf-internet-to-bring-high-speed-fiber-optic-internet-to-muncie-and-yorktown-indiana/",
+        "date": "2025-05-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW15",
+        "title": "Goldman Sachs acquisition of ImOn Communications closes",
+        "url": "https://www.imon.net/imon-difference/news-events/goldman-sachs-acquisition-imon-communications-closes",
+        "date": "2022-04-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW16",
+        "title": "ImOn 2025 fiber construction and Danville Telecom acquisition update",
+        "url": "https://www.imon.net/imon-difference/news-events/imon-communications-2025-fiber-giving-back",
+        "date": "2026-03-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW17",
+        "title": "NITCO company history and operating perimeter",
+        "url": "https://www.nitco.com/history/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW18",
+        "title": "NITCO residential FTTH and coax policy",
+        "url": "https://www.nitco.com/policies/",
+        "date": "2025-08-25",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW19",
+        "title": "New Lisbon Broadband current corporate and county description",
+        "url": "https://nlbc.com/about/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW20",
+        "title": "Taylored Systems joins New Lisbon Telephone and NLBC",
+        "url": "https://nlbc.com/taylored-systems-joins-forces-with-nltc-and-nlbc/",
+        "date": "2021-09-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW21",
+        "title": "Adams Fiber ownership history and FTTH milestone",
+        "url": "https://adams.net/about-adams-fiber/",
+        "date": "undated current page; history through 2025",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW22",
+        "title": "Endeavor Communications company profile",
+        "url": "https://weendeavor.com/about/about-us",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW23",
+        "title": "Endeavor Communications capital credits and member ownership",
+        "url": "https://weendeavor.com/about/capital-credits",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW24",
+        "title": "Telephone and Data Systems Q2 2026 Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/1051512/000105151226000063/tds-20260630.htm",
+        "date": "2026-08-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW25",
+        "title": "TDS Telecom announces southeast Wisconsin fiber expansion",
+        "url": "https://tdstelecom.com/about/news/categories/tds/TDSTelecomMajorFiberExpansionSoutheastWisconsin.html",
+        "date": "2025-10-21",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW26",
+        "title": "TDS completes Granite State acquisition",
+        "url": "https://tdstelecom.com/about/news/categories/tds/TDSCompletesGraniteStateAcquisition.html",
+        "date": "2026-09-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW27",
+        "title": "WIN Technology company and network profile",
+        "url": "https://www.wintechnology.com/blog/touchdowns-and-technology/",
+        "date": "2025-09-19",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW28",
+        "title": "Partners launch Heartland Fiber Project",
+        "url": "https://www.wintechnology.com/blog/partners-launch-heartland-fiber-project-to-expand-high-capacity-connectivity-across-upper-midwest/",
+        "date": "2026-05-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW29",
+        "title": "WIN Technology acquires Digicorp",
+        "url": "https://www.wintechnology.com/blog/win-technology-acquires-digicorp-inc/",
+        "date": "2024-07-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW30",
+        "title": "Wisconsin Capital Projects Fund broadband project status",
+        "url": "https://psc.wi.gov/Documents/broadband/RptGrantSummary_CPF.2023.pdf",
+        "date": "2026-05-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW31",
+        "title": "About Bug Tussel Wireless",
+        "url": "https://www.bugtusselwireless.com/about-bug-tussel/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW32",
+        "title": "Midwest Fiber Networks company profile",
+        "url": "https://www.midwestfibernetworks.com/company/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW33",
+        "title": "Midwest Fiber Networks network map",
+        "url": "https://www.midwestfibernetworks.com/network-map/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW34",
+        "title": "Midwest Fiber Networks customer support and company FAQ",
+        "url": "https://www.midwestfibernetworks.com/customer-support/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW35",
+        "title": "Socket and IdeaTek sponsor combination announcement",
+        "url": "https://www.pamlicocapital.com/news/socket-telecom-announces-strategic-investment-from-oak-hill-capital-and-pamlico-capital",
+        "date": "2025-07-08",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW36",
+        "title": "Houlihan Lokey transaction record for Socket acquisition of Fastwyre Missouri",
+        "url": "https://hl.com/about-us/transactions/socket-fiber-oak-hill-pamlico-fastwyre-broadband/",
+        "date": "2026-04-30",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW37",
+        "title": "IdeaTek agreement to acquire Wave Wireless",
+        "url": "https://ideatek.com/ideatek-to-acquire-wave-wireless/",
+        "date": "2026-08-12",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW38",
+        "title": "Shentel completes acquisition of Horizon",
+        "url": "https://investor.shentel.com/node/22636",
+        "date": "2024-04-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW39",
+        "title": "Shentel reports second quarter 2026 results",
+        "url": "https://investor.shentel.com/news-releases/news-release-details/shenandoah-telecommunications-company-reports-second-quarter-12",
+        "date": "2026-07-29",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW40",
+        "title": "Glo Fiber launches enhanced FTTH technology in Circleville",
+        "url": "https://investor.shentel.com/news-releases/news-release-details/glo-fiber-launches-enhanced-fiber-home-technology-circleville",
+        "date": "2026-08-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW41",
+        "title": "Bluebird announces completion of Everstream purchase",
+        "url": "https://bluebirdfiber.com/bluebird-fiber-completes-purchase-of-everstream-assets/",
+        "date": "2026-03-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW42",
+        "title": "Uniti and Macquarie complete Bluebird transaction",
+        "url": "https://investor.uniti.com/news-releases/news-release-details/uniti-group-inc-and-macquarie-infrastructure-partners-complete",
+        "date": "2019-09-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW43",
+        "title": "Uniti 2022 Form 10-K business combinations note",
+        "url": "https://www.sec.gov/Archives/edgar/data/1620280/000162828023005558/R15.htm",
+        "date": "year ended 2022-12-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW44",
+        "title": "Bluebird NTIA engineering and project management RFP",
+        "url": "https://bluebirdfiber.com/wp-content/uploads/2024/03/Bluebird-NTIA-Engineering-RFP.pdf",
+        "date": "2024-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW45",
+        "title": "NTIA Middle Mile funding recipients, Missouri Network Alliance",
+        "url": "https://broadbandusa.ntia.doc.gov/funding-programs/enabling-middle-mile-broadband-infrastructure-program/funding-recipients",
+        "date": "2023-06 award; page undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW46",
+        "title": "Grain Management and 123NET complete investment transaction",
+        "url": "https://www.123.net/news/grain-management-and-123net-complete-investment-transaction/",
+        "date": "2024-07-22 page date; release body dated 2024-07-21",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW47",
+        "title": "123NET and Peninsula Fiber Network complete major fiber installation",
+        "url": "https://www.123.net/news/123net-and-peninsula-fiber-network-complete-major-fiber-installation/",
+        "date": "2025-02-24 release date; page published 2025-02-25",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW48",
+        "title": "123NET dark fiber service",
+        "url": "https://www.123.net/dark-fiber/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW49",
+        "title": "WK&T About Us",
+        "url": "https://www.mywkt.net/about-us/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW50",
+        "title": "WK&T Kentucky PSC Lifeline ETC application",
+        "url": "https://psc.ky.gov/pscecf/2024-00389/jackie.mccarthy%40jsitel.com/12102024012456/WKT_KY_PSC_ETC_Package_12.10.24.pdf",
+        "date": "2024-12-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW51",
+        "title": "Kentucky Better Internet grant awards",
+        "url": "https://www.kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=1374",
+        "date": "2022-06-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW52",
+        "title": "Brandenburg Telephone Company financial report for 2025",
+        "url": "https://psc.ky.gov/Utility_Financial_Reports_Net/uploaded/support/SD_11200_2025_3.pdf",
+        "date": "2025-12-31; filed 2026-05-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW53",
+        "title": "Brandenburg Telephone Company About Us",
+        "url": "https://bbtel.com/aboutus.php",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW54",
+        "title": "KentuckyWired contracts",
+        "url": "https://kentuckywired.ky.gov/LastMilePartner/Pages/KYW%20Contracts.aspx",
+        "date": "current page; Brandenburg IRU dated 2017-10-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW55",
+        "title": "Omni Fiber and Lit Fiber announce merger",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-and-lit-fiber-announce-merger-to-accelerate-fiber-to-the-home-expansion/",
+        "date": "2024-11-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW56",
+        "title": "Omni Fiber secures $200 million for fiber expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW57",
+        "title": "Omni Fiber announces Citizens Fiber acquisition",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-acquires-citizens-fiber-expanding-its-footprint-in-western-pennsylvania/",
+        "date": "2026-06-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW58",
+        "title": "Pennsylvania PUC Citizens Fiber transfer docket A-2026-3063492",
+        "url": "https://www.puc.pa.gov/docket/A-2026-3063492",
+        "date": "2026-08-11 reviewed activity",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW59",
+        "title": "Bain Capital and Tillman announce Eaton funding and proposed Ripple acquisition",
+        "url": "https://www.baincapital.com/news/bain-capital-and-tillman-global-holdings-announce-15-billion-investment-eaton-fiber-power",
+        "date": "2026-07-29",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW60",
+        "title": "Ripple Fiber expands debt capacity to $350 million",
+        "url": "https://ripplefiber.com/newsroom/ripple-fiber-expands-debt-capacity-to-350-million-to-fuel-nationwide-fiber-network-growth",
+        "date": "2025-05-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW61",
+        "title": "FCC December 2025 Illinois state FTTP availability file",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789762",
+        "date": "2025-12-31 availability; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW62",
+        "title": "FCC December 2025 Indiana state FTTP availability file",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789763",
+        "date": "2025-12-31 availability; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW63",
+        "title": "Rightfiber areas served",
+        "url": "https://www.rightfiber.com/service-areas",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW64",
+        "title": "FCC DA 22-938, CTI transfer authorization",
+        "url": "https://docs.fcc.gov/public/attachments/DA-22-938A1.pdf",
+        "date": "2022-09-12; grant effective 2022-09-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW65",
+        "title": "Pinpoint transaction roster, CTI sale to Joink",
+        "url": "https://www.pinpointadvisors.com/transactions",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW66",
+        "title": "NITCO ownership transition report, unverified secondary lead",
+        "url": "https://nwindianabusiness.com/industries/professional-services/information-technology/nitco-announces-ownership-transition/78533/",
+        "date": "2026-07-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW67",
+        "title": "NITCO business services and undated scale claims",
+        "url": "https://www.nitco.com/business/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW68",
+        "title": "New Lisbon Broadband service-area enquiry list",
+        "url": "https://nlbc.com/contact-us/service-area/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW69",
+        "title": "About Aureon",
+        "url": "https://aureon.com/about/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW70",
+        "title": "Aureon and partners announce 100-terabit route",
+        "url": "https://aureon.com/press-release/100tb-route/",
+        "date": "2026-05-13",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW71",
+        "title": "Aureon Iowa Falls-to-Chicago build description",
+        "url": "https://aureon.com/blog/behind-the-build-aureons-fiber-route-from-iowa-falls-to-chicago/",
+        "date": "2026-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW72",
+        "title": "MWFN Home residential fiber service",
+        "url": "https://www.midwestfibernetworks.com/residential/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW73",
+        "title": "MWFN Home network expansion",
+        "url": "https://www.midwestfibernetworks.com/residential/network-expansion/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW74",
+        "title": "North Central Connection, 100% Fiber",
+        "url": "https://www.nctc.com/wp-content/uploads/23-0076-NCTC-Connection-JulyAug.pdf",
+        "date": "2023-07/08",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW75",
+        "title": "North Central Telephone Cooperative 2025 Kentucky PSC annual report",
+        "url": "https://psc.ky.gov/UFR_PDF/%5CTelecom%5C2025%5C12400_North_Central_Telephone_Cooperative%20_Inc.pdf",
+        "date": "2025-12-31; filed 2026-06-05",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW76",
+        "title": "NCTC and Warren RECC Fiber for Warren partnership",
+        "url": "https://fiber.nctc.com/front_end/updates/fiber-for-warren",
+        "date": "2019-10-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW77",
+        "title": "Pennsylvania Bulletin notice of Citizens and Omni transfer applications",
+        "url": "https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol56/56-28/999.html",
+        "date": "2026-07-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW78",
+        "title": "Omni and Citizens response to Pennsylvania PUC data request",
+        "url": "https://www.puc.pa.gov/pcdocs/1940370.pdf",
+        "date": "2026-07-17; source not independently reopened",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW79",
+        "title": "Shentel 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/354963/000035496326000125/shen-20251231.htm",
+        "date": "2026-02-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW80",
+        "title": "Wisconsin PSC FY2021 broadband expansion award list, item 21",
+        "url": "https://psc.wi.gov/Documents/broadband/BbExpGAwardeeListFY2021.pdf",
+        "date": "2021-03-18",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MW81",
+        "title": "Indiana Connectivity Program award rounds 15, 16 and 17",
+        "url": "https://www.in.gov/indianabroadband/indiana-connectivity-program/",
+        "date": "2025-10-16; 2026-02-18; 2026-07-09",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "brightspeed-reconciliation",
+    "title": "Brightspeed: reconcile FCC availability with the build story",
+    "url": "research/brightspeed-reconciliation/",
+    "pages": [
+      "states",
+      "rightfiber"
+    ],
+    "type": "Measurement reconciliation",
+    "words": 1310,
+    "sources": [
+      {
+        "id": "P01",
+        "title": "Brightspeed surpasses 3M fiber-enabled locations",
+        "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Surpasses_3M_Fiber-Enabled_Locations/",
+        "date": "2026-04-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P02",
+        "title": "Brightspeed year-end build reaches approximately 1.82M locations",
+        "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Fiber_Internet_Network_Build_Exceeds_YearEnd_Goal_FiberEnabled_Locations/",
+        "date": "2025-01-07; Body dateline; live page header says 2025-11-17. Measurement refers to year-end 2024.",
+        "accessed": "2026-09-20",
+        "date_basis": "Body dateline; live page header says 2025-11-17. Measurement refers to year-end 2024."
+      },
+      {
+        "id": "P03",
+        "title": "Brightspeed next era of growth and recapitalization",
+        "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Enters_Next_Era_of_Growth_as_Fiber_Broadband_Leader/",
+        "date": "2024-08-13; Body dateline; live page header says 2025-11-13.",
+        "accessed": "2026-09-20",
+        "date_basis": "Body dateline; live page header says 2025-11-13."
+      },
+      {
+        "id": "P04",
+        "title": "Brightspeed August 2025 capital offering and footprint",
+        "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_Raises_1point65B_Increasing_New_Total_Capital_to_5point9B/",
+        "date": "2025-08-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P05",
+        "title": "Brightspeed provisional BEAD awards and achieved footprint",
+        "url": "https://www.brightspeed.com/brightspeed-news/Brightspeed_BEAD_Wins_Total_528M/",
+        "date": "2025-10-03; Body dateline; live page header says 2025-11-07.",
+        "accessed": "2026-09-20",
+        "date_basis": "Body dateline; live page header says 2025-11-07."
+      },
+      {
+        "id": "P06",
+        "title": "Brightspeed RDOF 40% notification, Missouri PSC public copy",
+        "url": "https://efis.psc.mo.gov/Document/Display/862901",
+        "date": "2026-01-09",
+        "accessed": "2026-09-20",
+        "locator": "Pages 1-2; corporate assertion and RDOF validation caveat have different scopes."
+      },
+      {
+        "id": "P07",
+        "title": "Brightspeed WiFi 7 release with achieved fiber footprint",
+        "url": "https://www.brightspeed.com/content/dam/brightspeed/pdfs/WiFi7_Launch_PressRelease_020926_FINAL.pdf",
+        "date": "2026-02-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P08",
+        "title": "Brightspeed launches operations after Lumen acquisition",
+        "url": "https://www.brightspeed.com/brightspeed-news/brightspeed-launches-operations-and-begins-large-scale-fiber-network-deployment/",
+        "date": "2022-10-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P09",
+        "title": "FCC DA 22-871 transfer approval",
+        "url": "https://docs.fcc.gov/public/attachments/DA-22-871A1.pdf",
+        "date": "2022-08-19",
+        "accessed": "2026-09-20",
+        "access_method": "Direct PDF request returned 403; official-domain indexed primary text independently retrieved, including first-page adopted/released date and paragraph 2 footnote 6 state list.",
+        "locator": "Page 1; paragraph 2 and footnote 6."
+      },
+      {
+        "id": "P10",
+        "title": "Lumen Form 8-K reporting completed sale",
+        "url": "https://www.sec.gov/Archives/edgar/data/18926/000119312522256669/d334086d8k.htm",
+        "date": "2022-10-03",
+        "accessed": "2026-09-20",
+        "locator": "Item 2.01."
+      },
+      {
+        "id": "P11",
+        "title": "Lumen announces FCC approval and retained assets",
+        "url": "https://ir.lumen.com/news/news-details/2022/FCC-approves-sale-of-Lumen-assets-to-Brightspeed/default.aspx",
+        "date": "2022-08-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P12",
+        "title": "FCC DA 23-1195 Connect Holding II foreign-ownership ruling",
+        "url": "https://docs.fcc.gov/public/attachments/DA-23-1195A1.pdf",
+        "date": "2023-12-20",
+        "accessed": "2026-09-20",
+        "access_method": "Direct PDF request failed; official-domain indexed primary text independently retrieved.",
+        "locator": "Connect Holding II petition narrative, page 4; ten wireless licensees, not all operating subsidiaries."
+      },
+      {
+        "id": "P13",
+        "title": "South Carolina PSC Order 2026-449",
+        "url": "https://dms.psc.sc.gov/Attachments/Order/03f9a92c-d16b-40ad-a995-58c344effc69",
+        "date": "2026-08-14",
+        "accessed": "2026-09-20",
+        "locator": "Docket 2026-107-C; pages 3-4 and ordering provisions page 7. Some internal page headers contain 2026-107-E."
+      },
+      {
+        "id": "P14",
+        "title": "South Carolina joint fiber-asset transfer application",
+        "url": "https://dms.psc.sc.gov/Attachments/Matter/eda65f56-0c1c-408d-93a6-e28f6a8eb584",
+        "date": "2026-04-17",
+        "accessed": "2026-09-20",
+        "locator": "Docket 2026-107-C, application pages 2-3 and page 5 footnote 4."
+      },
+      {
+        "id": "P15",
+        "title": "FCC definition of a Broadband Serviceable Location",
+        "url": "https://help.bdc.fcc.gov/hc/en-us/articles/16842264428059-About-the-Fabric-What-a-Broadband-Serviceable-Location-BSL-Is-and-Is-Not",
+        "date": "2025-07-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "P18",
+        "title": "FCC fixed broadband availability data overview",
+        "url": "https://help.bdc.fcc.gov/hc/en-us/articles/5290946484763-Fixed-Broadband-Availability-Data-Overview",
+        "date": "2025-02-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCCCAT",
+        "title": "FCC D25 live Provider / Location Coverage catalog",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/listAvailabilityData/2025-12-31?category=Provider&subcategory=Location%20Coverage&technology_type=Fixed%20Broadband",
+        "date": "Availability 2025-12-31; revision D25_15sep2026; retrieved September 20 ET",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC01",
+        "title": "Alabama Connect Holding II LLC provider source 1794010",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794010",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC05",
+        "title": "Arkansas Connect Holding II LLC provider source 1794011",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794011",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC13",
+        "title": "Georgia Connect Holding II LLC provider source 1794012",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794012",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC17",
+        "title": "Illinois Connect Holding II LLC provider source 1794013",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794013",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC18",
+        "title": "Indiana Connect Holding II LLC provider source 1794014",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794014",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC20",
+        "title": "Kansas Connect Holding II LLC provider source 1794015",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794015",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC22",
+        "title": "Louisiana Connect Holding II LLC provider source 1794016",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794016",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC26",
+        "title": "Michigan Connect Holding II LLC provider source 1794017",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794017",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC28",
+        "title": "Mississippi Connect Holding II LLC provider source 1794018",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794018",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC29",
+        "title": "Missouri Connect Holding II LLC provider source 1794019",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794019",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC34",
+        "title": "New Jersey Connect Holding II LLC provider source 1794020",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794020",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC37",
+        "title": "North Carolina Connect Holding II LLC provider source 1794021",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794021",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC39",
+        "title": "Ohio Connect Holding II LLC provider source 1794022",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794022",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC40",
+        "title": "Oklahoma Connect Holding II LLC provider source 1794023",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794023",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC42",
+        "title": "Pennsylvania Connect Holding II LLC provider source 1794024",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794024",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC45",
+        "title": "South Carolina Connect Holding II LLC provider source 1794025",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794025",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC47",
+        "title": "Tennessee Connect Holding II LLC provider source 1794026",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794026",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC48",
+        "title": "Texas Connect Holding II LLC provider source 1794027",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794027",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC51",
+        "title": "Virginia Connect Holding II LLC provider source 1794028",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794028",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC55",
+        "title": "Wisconsin Connect Holding II LLC provider source 1794029",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1794029",
+        "date": "Availability 2025-12-31; D25_15sep2026",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "omni-mdu-evidence",
+    "title": "Omni / Lit: prove the MDU economics property by property",
+    "url": "research/omni-mdu-evidence/",
+    "pages": [
+      "omni"
+    ],
+    "type": "Property and carrier diligence",
+    "words": 2548,
+    "sources": [
+      {
+        "id": "M01",
+        "title": "Community Solutions",
+        "url": "https://www.omnifiber.com/mdu/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M02",
+        "title": "Omni Fiber Right of Entry and Installation Agreement",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2025/09/ROE_09-2025.pdf",
+        "date": "undated form; URL path indicates 2025-09",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M03",
+        "title": "1885 Chapelwood Dr Apt. 4 rental listing",
+        "url": "https://dreamhuge.appfolio.com/listings/detail/8e9e34a6-0a79-4319-a0e1-ed7088366d55",
+        "date": "undated live listing",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M04",
+        "title": "Omni Fiber Right of Entry and Installation Agreement, prior July form",
+        "url": "https://www.omnifiber.com/wp-content/uploads/2025/07/OmniFiber_RightOfEntry_July2025.pdf",
+        "date": "2025-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M05",
+        "title": "City of Brownsville to Host Cybersecurity Week Seminars",
+        "url": "https://www.brownsvilletx.gov/m/newsflash/home/detail/1857",
+        "date": "2024-03-19",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M06",
+        "title": "City of Brownsville FY2025 Annual Comprehensive Financial Report, Note 24 Joint Ventures",
+        "url": "https://www.brownsvilletx.gov/DocumentCenter/View/17661/FY-2025-ACFR",
+        "date": "2026-03-10 report transmittal date; fiscal year ended 2025-09-30; website publication date not established",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M07",
+        "title": "How a Public-Private Partnership Is Powering Our City",
+        "url": "https://www.brownsvilletx.gov/m/newsflash/Home/Detail/3294",
+        "date": "2026-07-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M08",
+        "title": "Connection Made; Lit Fiber-BTX Connects First Customer",
+        "url": "https://www.brownsvilletx.gov/m/newsflash/home/detail/2058",
+        "date": "2024-08-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M09",
+        "title": "Announcing Medina Fiber, an Open Access Residential Fiber Network in Medina County, Ohio",
+        "url": "https://www.medinaco.org/wp-content/uploads/2019/11/Phase-1-Announcement-11_26_19.pdf",
+        "date": "2019-11-26",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M10",
+        "title": "Louisville City Council Minutes, May 19, 2025",
+        "url": "https://www.louisvilleohio.gov/AgendaCenter/ViewFile/Minutes/_05192025-246",
+        "date": "2025-05-19",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M11",
+        "title": "Fiber Internet Expansion",
+        "url": "https://www.monroemi.gov/news/what_s_new/fiber_internet_expansion",
+        "date": "2026-04-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M12",
+        "title": "47 CFR 64.2500, Prohibited Agreements and Required Disclosures",
+        "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title47-vol3/pdf/CFR-2025-title47-vol3-sec64-2500.pdf",
+        "date": "2025-10-01 edition",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M13",
+        "title": "Improving Competitive Broadband Access to Multiple Tenant Environments, FCC 22-12",
+        "url": "https://www.federalregister.gov/documents/2022/03/28/2022-05862/improving-competitive-broadband-access-to-multiple-tenant-environments",
+        "date": "2022-03-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M14",
+        "title": "About the Fabric: What a Broadband Serviceable Location Is and Is Not",
+        "url": "https://help.bdc.fcc.gov/hc/en-us/articles/16842264428059-About-the-Fabric-What-a-Broadband-Serviceable-Location-BSL-Is-and-Is-Not",
+        "date": "2025-07-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "M15",
+        "title": "47 CFR Part64 SubpartZ: prohibition of exclusive telecommunications contracts",
+        "url": "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-Z",
+        "date": "Current through2026-09-17 as viewed",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "CR01",
+        "title": "T-Mobile 2025 Form 10-K, Note 3: Joint Ventures",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/R13.htm",
+        "date": "2026-02-11",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "Lumos Joint Venture; Metronet Joint Venture; Method of Accounting. Report period 2025-12-31.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR02",
+        "title": "T-Mobile Form 10-Q for June 30, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000101/tmus-20260630.htm",
+        "date": "2026-07-23",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "MD&A: Fiber Joint Ventures; Cost of services; Liquidity, Joint Ventures.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR03",
+        "title": "T-Mobile and EQT close Lumos joint venture",
+        "url": "https://www.t-mobile.com/news/business/t-mobile-eqt-close-lumos-fiber-jv",
+        "date": "2025-04-01",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Opening transaction and investment paragraphs.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR04",
+        "title": "T-Mobile and KKR announce Metronet joint venture",
+        "url": "https://www.t-mobile.com/news/network/t-mobile-kkr-joint-venture-to-acquire-metronet",
+        "date": "2024-07-24",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Transaction terms and expected closing paragraph.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR05",
+        "title": "Verizon strategic fiber agreement with Eaton",
+        "url": "https://www.verizon.com/about/news/verizon-expanding-broadband-new-strategic-fiber-agreement",
+        "date": "2025-10-27",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Key Highlights: Full Residential Retail Exclusivity; Third-Party Funding.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR06",
+        "title": "Bain Capital and Tillman announce $1.5 billion Eaton investment",
+        "url": "https://www.baincapital.com/news/bain-capital-and-tillman-global-holdings-announce-15-billion-investment-eaton-fiber-power",
+        "date": "2026-07-29",
+        "accessed": "2026-09-20",
+        "type": "counterparty_release",
+        "locator": "Dated release body; agreement roles; Verizon customer/network acquisition; conditional closing paragraph. Same release as dossier S06 Business Wire.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR07",
+        "title": "Verizon announces Starry acquisition",
+        "url": "https://www.verizon.com/about/news/verizon-acquisition-starry",
+        "date": "2025-10-08",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Key Highlights; nearly 100k MDU customers paragraph; technology description.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR08",
+        "title": "Verizon 2025 Form 10-K",
+        "url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+        "date": "2026-02-17",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "Printed p.23 / PDF p.23 (zero-index 22), Starry; also Note 3, Other.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR09",
+        "title": "Starry / Related amended and restated Master Access Agreement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1884697/000119312521361462/d238600dex1014.htm",
+        "date": "2018-05-22",
+        "accessed": "2026-09-20",
+        "type": "SEC_filed_contract",
+        "locator": "Exhibit 10.14; sections 1(a), 1(f), 2(a)-(c), 10(a),(c),(e), 13(i); redacted schedules/exhibits. Dossier filing date 2021-12-20; operative date verified from agreement.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR10",
+        "title": "Starry 2021 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1884697/000119312522092062/d267075d10k.htm",
+        "date": "2022-03-31",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "Key Business Metrics, printed pp.54-55: Homes Serviceable and Customer Relationships; year ended 2021-12-31.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR11",
+        "title": "AT&T 2025 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm",
+        "date": "2026-02-09",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "Note 6, Pending Acquisitions / Fiber, including February 2, 2026 subsequent closing.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR12",
+        "title": "AT&T Form 10-Q for June 30, 2026",
+        "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/t-2026-06-30-10q.pdf",
+        "date": "2026-06-30",
+        "accessed": "2026-09-20",
+        "type": "SEC_filing",
+        "locator": "Reporting-period date; Notes 1, 8 and 12; MD&A printed p.25. Public by 2026-07-22 earnings materials. Exact filing date not separately verified.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR13",
+        "title": "AT&T completes Lumen Mass Markets fiber acquisition",
+        "url": "https://about.att.com/story/2026/att-lumen-deal-close.html",
+        "date": "2026-02-02",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Opening closing statement; customer and location takeaways; footnote 1.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR14",
+        "title": "AT&T third-party fiber agreements",
+        "url": "https://about.att.com/story/2024/third-party-fiber.html",
+        "date": "2024-09-09",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Four commercial open-access agreements; carrier election paragraph; Ubiquity bullet.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR15",
+        "title": "AT&T / BlackRock Gigapower joint venture launches",
+        "url": "https://about.att.com/story/2023/gigapower.html",
+        "date": "2023-05-11",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Opening completed-JV statement; first tenant; Transaction Terms.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "CR16",
+        "title": "AT&T second-quarter 2026 results",
+        "url": "https://about.att.com/story/2026/2q-earnings.html",
+        "date": "2026-07-22",
+        "accessed": "2026-09-20",
+        "type": "issuer_release",
+        "locator": "Footnote 1: customers retained, subsidiary wholly owned and planned control sale.",
+        "access_status": "reopened_successfully"
+      },
+      {
+        "id": "P01",
+        "title": "FCC Broadband Data Collection, December 31, 2025 fixed broadband availability data",
+        "url": "https://broadbandmap.fcc.gov/data-download/nationwide-data",
+        "date": "2025-12-31 availability vintage; state files published/revised 2026-09-15",
+        "accessed": "2026-09-20",
+        "type": "primary_federal_data",
+        "locator": "Residential-capable R/X FTTP availability locations for Omni filer 480067 in Ohio, Pennsylvania, Michigan and Texas; figures derived in the validated block-group join"
+      },
+      {
+        "id": "P02",
+        "title": "U.S. Census Bureau, 2020-2024 ACS 5-Year Detailed Table B19013: Median Household Income",
+        "url": "https://data.census.gov/table/ACSDT5Y2024.B19013",
+        "date": "2020-2024 ACS 5-year; income in 2024 inflation-adjusted dollars",
+        "accessed": "2026-09-20",
+        "type": "primary_federal_data",
+        "locator": "Block-group and U.S. income estimates; published MOE is 90%; open-ended estimates excluded from ordinary weighted averages"
+      },
+      {
+        "id": "P03",
+        "title": "Stonepeak 2025 Mid-Year Credit Presentation",
+        "url": "https://stonepeak.com/wp-content/uploads/2025/04/2025-Mid-Year-Credit-Presentation.pdf",
+        "date": "2025-04; page 2, figures as of December 31, 2024; retained primary indexed presentation text; live PDF redirects to homepage",
+        "accessed": "2026-09-20",
+        "type": "primary_lender_presentation",
+        "locator": "Page 2; figures as of 2024-12-31 unless otherwise noted"
+      },
+      {
+        "id": "P04",
+        "title": "Omni Fiber announces $150 million in financing from Stonepeak Credit",
+        "url": "https://stonepeak.com/news/omni-fiber-announces-150-million-in-financing-from-stonepeak-credit-to-continue-rapid-expansion-in-the-midwest",
+        "date": "2024-07-16",
+        "accessed": "2026-09-20",
+        "type": "primary_lender_and_company_release",
+        "locator": "Communities served and under construction; year-end 2024 location target"
+      },
+      {
+        "id": "P05",
+        "title": "Omni Fiber secures $200 million for fiber expansion",
+        "url": "https://www.omnifiber.com/blog/omni-fiber-secures-200m-for-fiber-expansion/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20",
+        "type": "primary_company_release",
+        "locator": "Communities served and under construction; year-end 2025 location target"
+      }
+    ]
+  },
+  {
+    "id": "gpc-route-diligence",
+    "title": "Great Plains: named routes, endpoints and rights",
+    "url": "research/gpc-route-diligence/",
+    "pages": [
+      "greatplains"
+    ],
+    "type": "Detailed route diligence",
+    "words": 1065,
+    "sources": [
+      {
+        "id": "NE_A01",
+        "title": "GPC 1623 Farnam partnership",
+        "url": "https://gpcom.com/meet-our-technology-partners-1623-farnam/",
+        "date": "2021-03-18",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A03",
+        "title": "OmahaIX current participants",
+        "url": "https://omahaix.com/participants/",
+        "date": "page timestamp 2026-03-04; live-read 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A05",
+        "title": "GPC AS13807 PeeringDB",
+        "url": "https://www.peeringdb.com/net/10703",
+        "date": "network/public peering 2026-09-14; facility info 2026-04-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A06",
+        "title": "NebraskaLink / OPTK AS16851 PeeringDB",
+        "url": "https://www.peeringdb.com/net/9528",
+        "date": "network/public peering 2026-03-26; facility info 2026-03-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A07",
+        "title": "PeeringDB FAQ",
+        "url": "https://docs.peeringdb.com/faq/",
+        "date": "undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A08",
+        "title": "GPC Pinpoint acquisition completion",
+        "url": "https://gpcom.com/wp-content/uploads/2019/07/PinPointPressRelease021716-1.pdf",
+        "date": "release 2016-02-17; closing 2016-02-11; upload path 2019-07",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A09",
+        "title": "Cambridge Telephone Bartley North attachment",
+        "url": "https://psc.nebraska.gov/sites/default/files/doc/Cambridge%20Telephone%20Co._Bartley_North_Attachment%20C_1.pdf",
+        "date": "2023 application context; attachment undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A11",
+        "title": "OPTK 400G wavelengths",
+        "url": "https://optk.com/400g-wavelengths/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A12",
+        "title": "NebraskaLink SD certificate application",
+        "url": "https://puc.sd.gov/commission/dockets/telecom/2022/TC22-008/Application.pdf",
+        "date": "2022-03 docket context",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A13",
+        "title": "CenturyLink / NebraskaLink PDR amendment",
+        "url": "https://www.nebraska.gov/psc/communication/ICA_comm/ICAs/C5523CenturyLink_NebraskaLink%20Holdings.pdf",
+        "date": "2023-06-13 document footer; effective date conditional",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A14",
+        "title": "NTIA NebraskaLink Q2 2013 report",
+        "url": "https://www2.ntia.doc.gov/files/grantees/nt10bix5570112_nebraskalink_llc_ppr2013_q2.pdf",
+        "date": "submitted 2013-07-30; period ended 2013-06-30",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A15",
+        "title": "NTIA NebraskaLink 2012 annual report",
+        "url": "https://www2.ntia.doc.gov/sites/default/files/grantees/nt10bix5570112_apr2012_q4.pdf",
+        "date": "2013-02-28; reporting 2012",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A16",
+        "title": "Netrality 1102 Grand facility page",
+        "url": "https://netrality.com/data-center/1102-grand-kansas-city/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A17",
+        "title": "GPC Omaha to Kansas City 400G release",
+        "url": "https://gpcom.com/wp-content/uploads/2022/07/Omaha-KC-route-400G_v05102022.pdf",
+        "date": "2022-05-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A18",
+        "title": "Pinpoint Fiber service page",
+        "url": "https://www.pnpt.com/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A19",
+        "title": "Viaero company history",
+        "url": "https://www.viaero.com/about-us/",
+        "date": "undated current page; named build 2016-2018",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A20",
+        "title": "Viaero Fiber services",
+        "url": "https://viaerofiber.com/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A21",
+        "title": "1623 Farnam OPTK case study",
+        "url": "https://f.hubspotusercontent30.net/hubfs/7651933/Case%20Studies/1623_CaseStudy-OPTK.pdf",
+        "date": "undated; references summer 2020 expansion",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A22",
+        "title": "Rightfiber combination completion",
+        "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NE_A32",
+        "title": "1623 Farnam legacy carrier/IX sign",
+        "url": "https://info.1623farnam.com/hubfs/1623_00119_%20CarrierListSign-Letter-20221024-v4-print.pdf",
+        "date": "filename 2022-10-24; content includes later participants; not reliable issue date",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P01",
+        "title": "GPC AS13807 PeeringDB network record",
+        "url": "https://www.peeringdb.com/net?asn=13807",
+        "date": "network and public peering updated 2026-09-14; facility information updated 2026-04-14; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P02",
+        "title": "Joink AS32709 PeeringDB network record",
+        "url": "https://www.peeringdb.com/asn/32709",
+        "date": "Network, public peering and facility information updated 2024-12-19",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P03",
+        "title": "NITCO AS6368 PeeringDB network record",
+        "url": "https://www.peeringdb.com/net/7262",
+        "date": "Network/public peering updated 2023-10-03; facility information updated 2016-03-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P04",
+        "title": "Metro AS53610 PeeringDB network record",
+        "url": "https://www.peeringdb.com/net/8896",
+        "date": "Network/public peering updated 2026-07-23; facility information updated 2022-09-16",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P05",
+        "title": "PeeringDB About",
+        "url": "https://www.peeringdb.com/about",
+        "date": "Undated; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P06",
+        "title": "Equinix CH1/CH2/CH4 facility record",
+        "url": "https://www.peeringdb.com/fac/7",
+        "date": "Undated address record; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P07",
+        "title": "Digital Realty CHI facility record",
+        "url": "https://www.peeringdb.com/fac/466",
+        "date": "Undated address record; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P08",
+        "title": "Kirkland advises Metro on second securitization issuance",
+        "url": "https://www.kirkland.com/news/press-release/2026/06/kirkland-advises-metro-communications-on-completion-of-second-securitization-issuance-at-459-million",
+        "date": "2026-06-24; financing closed 2026-06-23",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P09",
+        "title": "FCC DA 26-93, Metro/Clearwave proposed asset transaction",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-93A1.pdf",
+        "date": "2026-01-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P10",
+        "title": "FCC DA 26-236, Metro/Clearwave authorization",
+        "url": "https://docs.fcc.gov/public/attachments/DA-26-236A1.pdf",
+        "date": "2026-03-12",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P11",
+        "title": "Bluebird announces completion of Everstream purchase",
+        "url": "https://bluebirdfiber.com/bluebird-fiber-completes-purchase-of-everstream-assets/",
+        "date": "2026-03-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P12",
+        "title": "Uniti and Macquarie complete Bluebird transaction",
+        "url": "https://investor.uniti.com/news-releases/news-release-details/uniti-group-inc-and-macquarie-infrastructure-partners-complete",
+        "date": "2019-09-03 announcement",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P13",
+        "title": "Uniti second-quarter 2020 results",
+        "url": "https://investor.uniti.com/node/10281/pdf",
+        "date": "2020-08-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P14",
+        "title": "Uniti 2022 Form 10-K, business combinations note",
+        "url": "https://www.sec.gov/Archives/edgar/data/1620280/000162828023005558/R15.htm",
+        "date": "Year ended 2022-12-31; historical events 2020-07-01 and 2021-05-28",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P15",
+        "title": "Bluebird NTIA Engineering and Project Management RFP, including page 27 appendix",
+        "url": "https://bluebirdfiber.com/wp-content/uploads/2024/03/Bluebird-NTIA-Engineering-RFP.pdf",
+        "date": "2024-03; packet gives 2024-03-01, day not independently revalidated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P16",
+        "title": "NTIA Middle Mile funding recipients, Missouri Network Alliance",
+        "url": "https://broadbandusa.ntia.doc.gov/funding-programs/enabling-middle-mile-broadband-infrastructure-program/funding-recipients",
+        "date": "2023-06 award; page undated",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P17",
+        "title": "NITCO History",
+        "url": "https://www.nitco.com/history/",
+        "date": "Undated history; relevant events 2017 and 2018",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P18",
+        "title": "East Chicago Board of Public Works minutes",
+        "url": "https://www.eastchicago.com/AgendaCenter/ViewFile/Minutes/_01102022-1206",
+        "date": "2022-01-10",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P19",
+        "title": "Netrality building specifications and ecosystem provider lists",
+        "url": "https://netrality.com/content/uploads/2024/07/NET_BuildingSpecs_DIGITAL-Q2.0423.pdf",
+        "date": "2024-07 hosting path; packet labels 2024",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P20",
+        "title": "Metro dark-fiber mobile backhaul",
+        "url": "https://www.metrocomm.com/fiber-mobile-backhaul",
+        "date": "Undated; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P21",
+        "title": "Metro network map",
+        "url": "https://www.metrocomm.com/fiber-optic-network-map",
+        "date": "2024 map label; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P22",
+        "title": "Bluebird dark fiber",
+        "url": "https://bluebirdfiber.com/dark-fiber/",
+        "date": "Undated; accessed 2026-09-20",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "IM_P23",
+        "title": "New Lisbon AS19112 PeeringDB record",
+        "url": "https://www.peeringdb.com/net/22817",
+        "date": "Network updated 2024-10-03; public peering updated 2020-04-02; no facility listed",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI01",
+        "title": "FCC international authorization grant for transfer of 123.Net, Inc.",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-FCC-Rcd-V39No7/pdf/GPO-FCC-Rcd-V39No7.pdf",
+        "date": "2024-05-31",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI02",
+        "title": "Grain Management and 123NET Complete Investment Transaction",
+        "url": "https://www.123.net/news/grain-management-and-123net-complete-investment-transaction/",
+        "date": "2024-07-22 page date; release body dated 2024-07-21",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI03",
+        "title": "Grain Management Completes Strategic Combination Forming Rightfiber",
+        "url": "https://graingp.com/grain-management-completes-strategic-combination-forming-rightfiber/",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI04",
+        "title": "Detroit Internet Exchange live locations and member roster",
+        "url": "https://www.detroitix.com/",
+        "date": "member data generated 2026-09-20 01:00:03 per page source",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI05",
+        "title": "123NET Data Center 1 current technical site specifications",
+        "url": "https://6121234.fs1.hubspotusercontent-na1.net/hubfs/6121234/Data%20Center%20Tech%20Specs-DC1%20(3).pdf",
+        "date": "undated current download",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI06",
+        "title": "123NET Expands Southfield Data Center to Power AI and High-Density Deployments",
+        "url": "https://www.123.net/news/123net-expands-dc1/",
+        "date": "2025-09-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI07",
+        "title": "123NET Data Center 2 current technical site specifications",
+        "url": "https://6121234.fs1.hubspotusercontent-na1.net/hubfs/6121234/Data%20Center%20Tech%20Specs-DC2%20(1).pdf",
+        "date": "undated current download",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI08",
+        "title": "123NET Data Center 3 current technical site specifications",
+        "url": "https://6121234.fs1.hubspotusercontent-na1.net/hubfs/6121234/Data%20Center%20Tech%20Specs-DC3%20(1).pdf",
+        "date": "undated current download",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI09",
+        "title": "EdgeConneX Detroit DET01 data sheet",
+        "url": "https://www.edgeconnex.com/wp-content/uploads/2024/09/Detroit-Data-Sheet.pdf",
+        "date": "undated sheet in 2024-09 URL path",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI10",
+        "title": "365 Data Centers Detroit data center",
+        "url": "https://365datacenters.com/detroit-data-center/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI11",
+        "title": "123NET Data Center 4 current technical site specifications",
+        "url": "https://6121234.fs1.hubspotusercontent-na1.net/hubfs/6121234/Data%20Center%20Tech%20Specs-DC4%20(1).pdf",
+        "date": "undated current download",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI12",
+        "title": "123NET Michigan data center and colocation locations",
+        "url": "https://www.123.net/data-center-colocation/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI13",
+        "title": "123NET dark fiber service",
+        "url": "https://www.123.net/dark-fiber/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI14",
+        "title": "123NET Grand Rapids Internet Exchange",
+        "url": "https://www.123.net/grand-rapids-internet-exchange/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI15",
+        "title": "123NET and Peninsula Fiber Network Complete Major Fiber Installation",
+        "url": "https://www.123.net/news/123net-and-peninsula-fiber-network-complete-major-fiber-installation/",
+        "date": "2025-02-24 release date; page published 2025-02-25",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI16",
+        "title": "Great Plains Communications Extends 400-Gig Fiber Network From Omaha to Minneapolis and Chicago",
+        "url": "https://gpcom.com/wp-content/uploads/2023/06/GPC-Omaha-to-MN-Denver_v061323-final.pdf",
+        "date": "2023-06-14",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI17",
+        "title": "Great Plains Communications carrier network solutions",
+        "url": "https://gpcom.com/carrier/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "MI18",
+        "title": "Great Plains Communications managed Ethernet services",
+        "url": "https://gpcom.com/business/managed-ethernet/",
+        "date": "undated live page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "RF01",
+        "title": "Rightfiber Areas We Serve",
+        "url": "https://www.rightfiber.com/service-areas",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "RF02",
+        "title": "RightFiber Invests $50 Million to Bring 100% Fiber Internet to North Texas Communities",
+        "url": "https://www.rittercommunications.com/newsroom/rightfiber-invests-50-million-to-bring-100-fiber-internet-to-north-texas-communitiesrc",
+        "date": "2026-02-23; page posted 2026-04-22",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "RF03",
+        "title": "Ritter Communications Completes $16 Million Investment in Texarkana",
+        "url": "https://www.rittercommunications.com/newsroom/ritter-communications-completes-16-million-investment-to-provide-100-percent-fiber-internet-service-to-businesses-in-texarkana-arkansas-and-texarkana-texas",
+        "date": "2020-06-11",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "GF01",
+        "title": "Gigabit Fiber GIGAPOP Locations",
+        "url": "https://gigabitfiber.com/network/gigapop-locations/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "GF02",
+        "title": "Gigabit Fiber Carrier Solutions",
+        "url": "https://gigabitfiber.com/carriers/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "GF03",
+        "title": "Gigabit Fiber Enterprise Solutions",
+        "url": "https://gigabitfiber.com/enterprise/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC01",
+        "title": "Equinix DA1",
+        "url": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/dallas-data-centers/da1",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC02",
+        "title": "DataBank DFW1 Downtown Dallas Data Center",
+        "url": "https://www.databank.com/data-centers/dallas/400-south-akard/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC03",
+        "title": "Digital Realty DFW10",
+        "url": "https://www.digitalrealty.com/data-centers/americas/dallas/dfw10",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC04",
+        "title": "Equinix DA4",
+        "url": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/dallas-data-centers/da4",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC05",
+        "title": "Digital Realty DFW18",
+        "url": "https://www.digitalrealty.com/data-centers/americas/dallas/dfw18",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DC06",
+        "title": "DataBank Plano Campus",
+        "url": "https://www.databank.com/data-centers/dallas/plano-campus/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "H_P09",
+        "title": "GPC InterCarrier Networks acquisition completion",
+        "url": "https://gpcom.com/wp-content/uploads/2019/11/ICN-Acquisition-Complete-PressRelease080619.pdf",
+        "date": "2019-08-06",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "H_P10",
+        "title": "GPC ETC acquisition completion",
+        "url": "https://www.globenewswire.com/news-release/2020/09/17/2095352/0/en/Great-Plains-Communications-Completes-Acquisition-of-Indiana-Based-Enhanced-Telecommunications-Corporation.html",
+        "date": "2020-09-17",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
     "id": "southern-rightfiber-overlap",
     "title": "Where Southern targets add reach to Rightfiber",
     "url": "research/southern-rightfiber-overlap/",
