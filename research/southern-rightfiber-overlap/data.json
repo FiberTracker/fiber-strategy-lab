@@ -1,0 +1,1101 @@
+{
+  "title": "Where Southern targets add reach to Rightfiber",
+  "lede": "The measured Yelcot and Aeneas components overlap the historical Ritter footprint at only 1.04% and 1.17% of their reported locations. Louisiana candidates require a geographic expansion case: neither Pelican nor Cajun shares a county with the measured Ritter residential-capable FTTP footprint.",
+  "topLimit": "This is a December 31, 2025 location-availability comparison of selected historical legal filers. It does not certify the current combined Rightfiber network, construction, passings, customers or unserved market opportunity.",
+  "hubSummary": "New exact-location evidence for seven Southern target groups: Yelcot shares 128 reported locations with Ritter and Aeneas shares 910. Pelican and Cajun have neither exact overlap nor shared counties in this measured D25 residential-capable footprint. Explore the county audit and ownership limits.",
+  "scope": "Buyer = E. Ritter Communications Holdings, Inc. (130427) in Arkansas, Louisiana and Tennessee. Great Plains Communications (130569) is not represented in these five target-state files and adds no measured component here. The September 2026 Rightfiber combination is publicly closed, but this historical comparison is not a complete current platform map.",
+  "summaryLimit": "Buyer counts repeat across scenarios and must not be added. Target outside selected buyer = target set minus buyer set, not available homes to sell or assured acquisition benefits. Alabama and Florida files are complete; because neither selected buyer filer is represented, Dragonfly comparisons are left unscored. A low overlap percentage is not a seller or synergy screen.",
+  "decisions": [
+    {
+      "title": "Arkansas: prioritize transport diligence around Yelcot; keep NATCO separate",
+      "text": "Yelcot reports 12,274 eligible locations, with 128 shared with Ritter, all in Independence County. Its 12,146 other locations form a candidate expansion footprint, subject to current network and ownership verification. NATCO has 5,573 locations with no exact overlap; Ritter reports only five eligible locations in their shared county, Boone. NATCO and Yelcot themselves share 53 locations in Marion County, so their footprints cannot simply be added. The next useful evidence is route maps, interconnection points and operating economics.",
+      "sourceIds": [
+        "FCC-D25-AR",
+        "NATCO-HISTORY",
+        "YELCOT-SERVICE"
+      ]
+    },
+    {
+      "title": "Louisiana: expansion logic must replace an assumed local infill story",
+      "text": "Pelican reports 8,614 and Cajun 5,465 eligible locations, with zero same-location overlap. Neither has a county in common with the measured Ritter component, which has 4,687 eligible locations in Lincoln Parish. This does not contradict business transport or later builds: business-only records and 2026 construction are outside this test. Underwrite physical connections, maintenance coverage and new-market execution before attributing operating synergies.",
+      "sourceIds": [
+        "FCC-D25-LA",
+        "PELICAN-ABOUT",
+        "CAJUN-STORY",
+        "RIGHTFIBER-RETAIL"
+      ]
+    },
+    {
+      "title": "Aeneas: low duplication does not settle who can sell which assets",
+      "text": "Aeneas reports 77,976 eligible Tennessee locations; 910 overlap Ritter, including 886 in Tipton County, 15 in Fayette and nine in Shelby. The 77,066 locations outside Ritter are a reporting-set difference. Southwest Tennessee Electric Membership Corporation board records establish Aeneas acquisition and control context. Any transaction thesis must establish the operating company perimeter, cooperative-owned network rights and consent requirements.",
+      "sourceIds": [
+        "FCC-D25-TN",
+        "AENEAS-STEMC-1",
+        "AENEAS-STEMC-2"
+      ]
+    },
+    {
+      "title": "SATCO and Dragonfly require explicit component boundaries",
+      "text": "SATCO has 5,150 eligible Arkansas locations; the separately reported ARIS joint venture has 7,378. Both have zero exact overlap with Ritter, but that is not evidence that one sale transfers both networks. Dragonfly has observed fiber components in Alabama and Florida; neither selected buyer filer appears in those state files, so no zero-overlap acquisition score is assigned.",
+      "sourceIds": [
+        "FCC-D25-AR",
+        "FCC-D25-AL",
+        "FCC-D25-FL",
+        "OECC-ARIS",
+        "AR-ARIS",
+        "DRAGONFLY-MYAKKA"
+      ]
+    }
+  ],
+  "summaryRows": [
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "perimeter": "Deduplicated CP-Tel 130362 + Northeast Louisiana 130939",
+      "states": [
+        "LA"
+      ],
+      "target": 8614,
+      "buyer": 4687,
+      "intersection": 0,
+      "incremental": 8614,
+      "union": 13301,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "perimeter": "Historical FCC filer 360013",
+      "states": [
+        "LA"
+      ],
+      "target": 5465,
+      "buyer": 4687,
+      "intersection": 0,
+      "incremental": 5465,
+      "union": 10152,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "natco",
+      "label": "NATCO",
+      "perimeter": "Historical FCC filer 130882",
+      "states": [
+        "AR"
+      ],
+      "target": 5573,
+      "buyer": 93940,
+      "intersection": 0,
+      "incremental": 5573,
+      "union": 99513,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "perimeter": "Historical FCC filer 131518",
+      "states": [
+        "AR"
+      ],
+      "target": 12274,
+      "buyer": 93940,
+      "intersection": 128,
+      "incremental": 12146,
+      "union": 106086,
+      "overlapPct": 1.042855
+    },
+    {
+      "targetId": "satco",
+      "label": "SATCO legal filer",
+      "perimeter": "Historical FCC filer 131214",
+      "states": [
+        "AR"
+      ],
+      "target": 5150,
+      "buyer": 93940,
+      "intersection": 0,
+      "incremental": 5150,
+      "union": 99090,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "ARIS joint venture",
+      "perimeter": "Separate JV filer 440163; no assumed transfer of control",
+      "states": [
+        "AR"
+      ],
+      "target": 7378,
+      "buyer": 93940,
+      "intersection": 0,
+      "incremental": 7378,
+      "union": 101318,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "perimeter": "Filer 190015, Tennessee only; cooperative governance",
+      "states": [
+        "TN"
+      ],
+      "target": 77976,
+      "buyer": 13296,
+      "intersection": 910,
+      "incremental": 77066,
+      "union": 90362,
+      "overlapPct": 1.167026
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / SP Broadband",
+      "perimeter": "Historical FCC filer 410184; selected buyer filers not represented",
+      "states": [
+        "AL"
+      ],
+      "target": 475,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / Myakka",
+      "perimeter": "Historical FCC filer 130880; selected buyer filers not represented",
+      "states": [
+        "FL"
+      ],
+      "target": 4950,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    }
+  ],
+  "targetOptions": [
+    {
+      "id": "pelican_broadband",
+      "name": "Pelican Broadband"
+    },
+    {
+      "id": "cajun_broadband",
+      "name": "Cajun Broadband"
+    },
+    {
+      "id": "natco",
+      "name": "NATCO"
+    },
+    {
+      "id": "yelcot",
+      "name": "Yelcot"
+    },
+    {
+      "id": "satco",
+      "name": "SATCO / ARIS components"
+    },
+    {
+      "id": "aeneas",
+      "name": "Aeneas"
+    },
+    {
+      "id": "dragonfly",
+      "name": "Dragonfly components"
+    }
+  ],
+  "countyRows": [
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "De Soto Parish",
+      "fips": "22031",
+      "status": "measured",
+      "target": 301,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 301,
+      "union": 301,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "Morehouse Parish",
+      "fips": "22067",
+      "status": "measured",
+      "target": 1754,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 1754,
+      "union": 1754,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "Natchitoches Parish",
+      "fips": "22069",
+      "status": "measured",
+      "target": 5040,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 5040,
+      "union": 5040,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "Ouachita Parish",
+      "fips": "22073",
+      "status": "measured",
+      "target": 25,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 25,
+      "union": 25,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "Red River Parish",
+      "fips": "22081",
+      "status": "measured",
+      "target": 810,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 810,
+      "union": 810,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "pelican_broadband",
+      "label": "Pelican Broadband",
+      "state": "LA",
+      "county": "Sabine Parish",
+      "fips": "22085",
+      "status": "measured",
+      "target": 684,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 684,
+      "union": 684,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "Assumption Parish",
+      "fips": "22007",
+      "status": "measured",
+      "target": 291,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 291,
+      "union": 291,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "Iberia Parish",
+      "fips": "22045",
+      "status": "measured",
+      "target": 1370,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 1370,
+      "union": 1370,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "Lafayette Parish",
+      "fips": "22055",
+      "status": "measured",
+      "target": 107,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 107,
+      "union": 107,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "St. Martin Parish",
+      "fips": "22099",
+      "status": "measured",
+      "target": 1177,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 1177,
+      "union": 1177,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "St. Mary Parish",
+      "fips": "22101",
+      "status": "measured",
+      "target": 236,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 236,
+      "union": 236,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "cajun_broadband",
+      "label": "Cajun Broadband",
+      "state": "LA",
+      "county": "Vermilion Parish",
+      "fips": "22113",
+      "status": "measured",
+      "target": 2284,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 2284,
+      "union": 2284,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "natco",
+      "label": "NATCO",
+      "state": "AR",
+      "county": "Boone County",
+      "fips": "05009",
+      "status": "measured",
+      "target": 2132,
+      "buyer": 5,
+      "intersection": 0,
+      "incremental": 2132,
+      "union": 2137,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "natco",
+      "label": "NATCO",
+      "state": "AR",
+      "county": "Marion County",
+      "fips": "05089",
+      "status": "measured",
+      "target": 3441,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 3441,
+      "union": 3441,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Baxter County",
+      "fips": "05005",
+      "status": "measured",
+      "target": 3264,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 3264,
+      "union": 3264,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Cleburne County",
+      "fips": "05023",
+      "status": "measured",
+      "target": 181,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 181,
+      "union": 181,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Independence County",
+      "fips": "05063",
+      "status": "measured",
+      "target": 2076,
+      "buyer": 1195,
+      "intersection": 128,
+      "incremental": 1948,
+      "union": 3143,
+      "overlapPct": 6.165703
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Izard County",
+      "fips": "05065",
+      "status": "measured",
+      "target": 1467,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 1467,
+      "union": 1467,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Marion County",
+      "fips": "05089",
+      "status": "measured",
+      "target": 2280,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 2280,
+      "union": 2280,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Searcy County",
+      "fips": "05129",
+      "status": "measured",
+      "target": 8,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 8,
+      "union": 8,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Sharp County",
+      "fips": "05135",
+      "status": "measured",
+      "target": 195,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 195,
+      "union": 195,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "Stone County",
+      "fips": "05137",
+      "status": "measured",
+      "target": 2802,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 2802,
+      "union": 2802,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "yelcot",
+      "label": "Yelcot",
+      "state": "AR",
+      "county": "White County",
+      "fips": "05145",
+      "status": "measured",
+      "target": 1,
+      "buyer": 5694,
+      "intersection": 0,
+      "incremental": 1,
+      "union": 5695,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "SATCO legal filer",
+      "state": "AR",
+      "county": "Bradley County",
+      "fips": "05011",
+      "status": "measured",
+      "target": 2383,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 2383,
+      "union": 2383,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "SATCO legal filer",
+      "state": "AR",
+      "county": "Calhoun County",
+      "fips": "05013",
+      "status": "measured",
+      "target": 2106,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 2106,
+      "union": 2106,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "SATCO legal filer",
+      "state": "AR",
+      "county": "Ouachita County",
+      "fips": "05103",
+      "status": "measured",
+      "target": 434,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 434,
+      "union": 434,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "SATCO legal filer",
+      "state": "AR",
+      "county": "Union County",
+      "fips": "05139",
+      "status": "measured",
+      "target": 227,
+      "buyer": 951,
+      "intersection": 0,
+      "incremental": 227,
+      "union": 1178,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "ARIS joint venture",
+      "state": "AR",
+      "county": "Calhoun County",
+      "fips": "05013",
+      "status": "measured",
+      "target": 330,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 330,
+      "union": 330,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "ARIS joint venture",
+      "state": "AR",
+      "county": "Dallas County",
+      "fips": "05039",
+      "status": "measured",
+      "target": 744,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 744,
+      "union": 744,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "satco",
+      "label": "ARIS joint venture",
+      "state": "AR",
+      "county": "Ouachita County",
+      "fips": "05103",
+      "status": "measured",
+      "target": 6304,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 6304,
+      "union": 6304,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Chester County",
+      "fips": "47023",
+      "status": "measured",
+      "target": 7590,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 7590,
+      "union": 7590,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Crockett County",
+      "fips": "47033",
+      "status": "measured",
+      "target": 27,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 27,
+      "union": 27,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Fayette County",
+      "fips": "47047",
+      "status": "measured",
+      "target": 17972,
+      "buyer": 75,
+      "intersection": 15,
+      "incremental": 17957,
+      "union": 18032,
+      "overlapPct": 0.083463
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Hardeman County",
+      "fips": "47069",
+      "status": "measured",
+      "target": 10469,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 10469,
+      "union": 10469,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Hardin County",
+      "fips": "47071",
+      "status": "measured",
+      "target": 32,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 32,
+      "union": 32,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Haywood County",
+      "fips": "47075",
+      "status": "measured",
+      "target": 4479,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 4479,
+      "union": 4479,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Henderson County",
+      "fips": "47077",
+      "status": "measured",
+      "target": 1604,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 1604,
+      "union": 1604,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Lauderdale County",
+      "fips": "47097",
+      "status": "measured",
+      "target": 3334,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 3334,
+      "union": 3334,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "McNairy County",
+      "fips": "47109",
+      "status": "measured",
+      "target": 487,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 487,
+      "union": 487,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Madison County",
+      "fips": "47113",
+      "status": "measured",
+      "target": 10741,
+      "buyer": 0,
+      "intersection": 0,
+      "incremental": 10741,
+      "union": 10741,
+      "overlapPct": 0.0
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Shelby County",
+      "fips": "47157",
+      "status": "measured",
+      "target": 76,
+      "buyer": 7521,
+      "intersection": 9,
+      "incremental": 67,
+      "union": 7588,
+      "overlapPct": 11.842105
+    },
+    {
+      "targetId": "aeneas",
+      "label": "Aeneas",
+      "state": "TN",
+      "county": "Tipton County",
+      "fips": "47167",
+      "status": "measured",
+      "target": 21165,
+      "buyer": 887,
+      "intersection": 886,
+      "incremental": 20279,
+      "union": 21166,
+      "overlapPct": 4.186156
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / SP Broadband",
+      "state": "AL",
+      "county": "Monroe County",
+      "fips": "01099",
+      "status": "no_represented_historical_rightfiber_filer_in_complete_state_catalogue",
+      "target": 475,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / Myakka",
+      "state": "FL",
+      "county": "Hardee County",
+      "fips": "12049",
+      "status": "no_represented_historical_rightfiber_filer_in_complete_state_catalogue",
+      "target": 2,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / Myakka",
+      "state": "FL",
+      "county": "Manatee County",
+      "fips": "12081",
+      "status": "no_represented_historical_rightfiber_filer_in_complete_state_catalogue",
+      "target": 3189,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    },
+    {
+      "targetId": "dragonfly",
+      "label": "Dragonfly / Myakka",
+      "state": "FL",
+      "county": "Sarasota County",
+      "fips": "12115",
+      "status": "no_represented_historical_rightfiber_filer_in_complete_state_catalogue",
+      "target": 1759,
+      "buyer": null,
+      "intersection": null,
+      "incremental": null,
+      "union": null,
+      "overlapPct": null
+    }
+  ],
+  "componentNotes": [
+    {
+      "title": "Pelican: a supported two-filer union",
+      "text": "The company history supports the current Pelican brand across CP-Tel (130362) and Northeast Louisiana Telephone (130939). Their measured Louisiana components are 6,835 and 1,779 unique locations; the deduplicated union is 8,614. This is the union used in the summary and county export.",
+      "sourceIds": [
+        "PELICAN-ABOUT",
+        "FCC-D25-LA"
+      ]
+    },
+    {
+      "title": "SATCO: legal filer and ARIS joint venture remain separate",
+      "text": "SATCO 131214 is a legal-filer-only screen, not a certified wholly owned asset perimeter. ARIS 440163 is the separately reported OECC/SATCO joint venture. Independent raw-file review finds 57 shared locations between the two Arkansas components; their geometric union is 12,471, not 12,528, but no combined acquisition case is scored. The Louisiana SATCO file contains 3,517 business-only FTTP rows and zero R/X rows. That is a measured exclusion, not a missing file or an absent business network.",
+      "sourceIds": [
+        "FCC-D25-AR",
+        "FCC-D25-LA",
+        "OECC-ARIS",
+        "AR-ARIS"
+      ]
+    },
+    {
+      "title": "Dragonfly: fiber components only, with no represented buyer comparison",
+      "text": "SP Broadband 410184 contributes 475 Alabama FTTP locations. Myakka 130880 contributes 4,950 Florida locations. Dragonfly says the Myakka acquisition finalized December 24, 2025; the January 2026 announcement is not the closing date. Components remain separate because the historical identities and complete current platform are not certified. Fast Wireless technology 70 and SP Broadband Florida technology 72 are excluded from this FTTP screen. Both Alabama and Florida state files were validated; the selected historical buyer filers are not represented.",
+      "sourceIds": [
+        "FCC-D25-AL",
+        "FCC-D25-FL",
+        "DRAGONFLY-MYAKKA",
+        "DRAGONFLY-FAST",
+        "DRAGONFLY-CURRENT"
+      ]
+    },
+    {
+      "title": "Aeneas: Tennessee is the measured component",
+      "text": "This calculation includes filer 190015 in Tennessee only. Its Mississippi catalog entry lies outside the validated 21-state input set and has an unresolved current perimeter, so it is excluded rather than presumed zero. Aeneas ownership does not establish title to every cooperative network asset used to deliver service.",
+      "sourceIds": [
+        "FCC-D25-CATALOG",
+        "FCC-D25-TN",
+        "AENEAS-STEMC-1",
+        "AENEAS-STEMC-2"
+      ]
+    }
+  ],
+  "method": "Five complete State / Location Coverage / Fixed Broadband technology-50 CSV files were checked against retained catalog row counts and SHA-256 hashes. The calculation filters technology 50 and residential-capable R/X, selects supported provider IDs, deduplicates location_id, and rejects conflicting county assignments. Exact overlap is the intersection of buyer and target location sets. County identity comes from the first five digits of block_geoid. Independent review reconstructed the raw-file counts and intersections separately.",
+  "limits": [
+    "Availability date is December 31, 2025; catalog revision is September 15, 2026. Current retail and ownership sources were checked September 20, 2026. Later builds and changed reporting are not measured here.",
+    "County co-presence means both report eligible locations within the same county. It does not mean adjacent network routes, shared endpoints, construction adjacency or interconnection. No mileage or transport adjacency has been calculated.",
+    "The summary compares the buyer only within each target state. County views show all counties with target locations; a buyer may have locations in additional counties not displayed there. Union is the deduplicated buyer-plus-target set in the stated geography.",
+    "These seven target groups are a bounded Southern screen. PhireLink/Arkwest and other broader platforms need additional historical-filer mapping before a complete platform overlap can be claimed.",
+    "Business-only service, wireless and other non-FTTP technologies are excluded. The screen therefore does not answer enterprise route overlap, carrier backhaul availability or MDU property access.",
+    "No aggregate acquisition benefit is calculated by summing targets. Target-target overlap, asset rights, purchase perimeter, current operating data, capex and seller willingness require separate diligence."
+  ],
+  "sources": [
+    {
+      "id": "FCC-D25-CATALOG",
+      "title": "FCC BDC provider-file catalog, December 31, 2025 vintage, September 15, 2026 revision",
+      "url": "https://broadbandmap.fcc.gov/data-download",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-20",
+      "note": "Retained December 2025 catalog, September 15, 2026 revision. The calculation reuses the validated state files below; provider inventory supplies identities. File links may change when FCC republishes a vintage."
+    },
+    {
+      "id": "FCC-D25-AR",
+      "title": "FCC Arkansas State FTTP availability file 1789752",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789752",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-18"
+    },
+    {
+      "id": "FCC-D25-LA",
+      "title": "FCC Louisiana State FTTP availability file 1789767",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789767",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC-D25-TN",
+      "title": "FCC Tennessee State FTTP availability file 1789791",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789791",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC-D25-AL",
+      "title": "FCC Alabama State FTTP availability file 1789749",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789749",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "FCC-D25-FL",
+      "title": "FCC Florida State FTTP availability file 1789758",
+      "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789758",
+      "date": "2025-12-31; revised 2026-09-15",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "RIGHTFIBER-RETAIL",
+      "title": "Rightfiber Areas We Serve",
+      "url": "https://www.rightfiber.com/service-areas",
+      "date": "undated live page; crawled today",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "RIGHTFIBER-CLOSE",
+      "title": "Grain Management Completes Strategic Combination Forming Rightfiber",
+      "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+      "date": "2026-09-02",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "PELICAN-ABOUT",
+      "title": "Pelican Broadband About and Company History",
+      "url": "https://pelicanbroadband.com/about/",
+      "date": "undated current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "CAJUN-STORY",
+      "title": "Cajun Broadband Our Story",
+      "url": "https://www.cajunbroadband.com/our-story",
+      "date": "undated current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "NATCO-HISTORY",
+      "title": "NATCO company history",
+      "url": "https://www.natconet.com/company-history",
+      "date": "undated current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "YELCOT-SERVICE",
+      "title": "Yelcot service areas",
+      "url": "https://www.yelcot.com/",
+      "date": "2026 current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "OECC-ARIS",
+      "title": "OECC ARIS partnership",
+      "url": "https://www.oecc.com/fiber-internet",
+      "date": "undated historical page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "AR-ARIS",
+      "title": "Arkansas broadband office on OECC/SATCO",
+      "url": "https://broadband.arkansas.gov/november-newsletter/",
+      "date": "2025-12-01",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "AENEAS-STEMC-1",
+      "title": "STEMC board minutes, acquisition of Aeneas confirmed",
+      "url": "https://www.stemc.com/wp-content/uploads/2023/12/Minutes-February-1-2022.pdf",
+      "date": "2022-02-01",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "AENEAS-STEMC-2",
+      "title": "STEMC board minutes, CEO resolution records Aeneas acquisition",
+      "url": "https://www.stemc.com/wp-content/uploads/2025/08/Minutes-June-24-2025.pdf",
+      "date": "2025-06-24",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "DRAGONFLY-CURRENT",
+      "title": "Dragonfly Internet Southwest Alabama",
+      "url": "https://dragonfly.net/",
+      "date": "current page",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "DRAGONFLY-FAST",
+      "title": "Dragonfly Internet Acquires Fast Wireless",
+      "url": "https://dragonfly.net/news/dragonfly-internet-acquires-fast-wireless/",
+      "date": "2026-03",
+      "accessed": "2026-09-20"
+    },
+    {
+      "id": "DRAGONFLY-MYAKKA",
+      "title": "Dragonfly Internet Acquires Myakka Communications",
+      "url": "https://dragonfly.net/news/dragonfly-internet-acquires-myakka-communications/",
+      "date": "transaction finalized 2025-12-24; announced 2026-01",
+      "accessed": "2026-09-20"
+    }
+  ],
+  "inputs": [
+    {
+      "state": "Alabama",
+      "fileId": "1789749",
+      "revision": "2026-09-15",
+      "rows": 1659237,
+      "sha256": "10fea3760fda09a645bec0eb14967b68a73e4c93814b4c1c471baaa8f07fee05"
+    },
+    {
+      "state": "Arkansas",
+      "fileId": "1789752",
+      "revision": "2026-09-15",
+      "rows": 1155860,
+      "sha256": "47d145c0f8a55fa8792896279a70907d637cf07d6884e10266a06df2b9faf84f"
+    },
+    {
+      "state": "Florida",
+      "fileId": "1789758",
+      "revision": "2026-09-15",
+      "rows": 6217194,
+      "sha256": "222acc6a929a8e20fe305e588a4b67665be6a778d24c8dea20e05b3d08a4482a"
+    },
+    {
+      "state": "Louisiana",
+      "fileId": "1789767",
+      "revision": "2026-09-15",
+      "rows": 1281390,
+      "sha256": "dc3a84bee0d03c058e3b0dc1514d7e9c43dc19e8144e45ba9314937ea3d246b3"
+    },
+    {
+      "state": "Tennessee",
+      "fileId": "1789791",
+      "revision": "2026-09-15",
+      "rows": 2814535,
+      "sha256": "161c40ba29e99b9a2351c8308eae3d82dc4603ab860557aef64787bb9838f095"
+    }
+  ],
+  "asOf": "2026-09-20",
+  "availabilityDate": "2025-12-31",
+  "pairwiseTargetCheck": [
+    {
+      "pair_id": "natco_vs_yelcot",
+      "state_fips": "05",
+      "state_name": "Arkansas",
+      "left_target_id": "natco",
+      "left_provider_id": "130882",
+      "left_locations": 5573,
+      "right_target_id": "yelcot",
+      "right_provider_id": "131518",
+      "right_locations": 12274,
+      "exact_intersection_locations": 53,
+      "left_minus_right_locations": 5520,
+      "right_minus_left_locations": 12221,
+      "union_locations": 17794,
+      "overlap_pct_of_natco": 0.951014,
+      "overlap_pct_of_yelcot": 0.431807,
+      "shared_county_count": 1,
+      "shared_counties_with_exact_overlap_count": 1,
+      "scope_note": "Pairwise NATCO-Yelcot check requested for the Marion overlap question. It is not additive to a portfolio total."
+    }
+  ]
+}

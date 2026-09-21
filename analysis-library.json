@@ -1,5 +1,152 @@
 [
   {
+    "id": "southern-rightfiber-overlap",
+    "title": "Where Southern targets add reach to Rightfiber",
+    "url": "research/southern-rightfiber-overlap/",
+    "pages": [
+      "rightfiber",
+      "states"
+    ],
+    "type": "Exact location analysis",
+    "words": 359,
+    "sources": [
+      {
+        "id": "FCC-D25-CATALOG",
+        "title": "FCC BDC provider-file catalog, December 31, 2025 vintage, September 15, 2026 revision",
+        "url": "https://broadbandmap.fcc.gov/data-download",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-20",
+        "note": "Retained December 2025 catalog, September 15, 2026 revision. The calculation reuses the validated state files below; provider inventory supplies identities. File links may change when FCC republishes a vintage."
+      },
+      {
+        "id": "FCC-D25-AR",
+        "title": "FCC Arkansas State FTTP availability file 1789752",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789752",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-18"
+      },
+      {
+        "id": "FCC-D25-LA",
+        "title": "FCC Louisiana State FTTP availability file 1789767",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789767",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC-D25-TN",
+        "title": "FCC Tennessee State FTTP availability file 1789791",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789791",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC-D25-AL",
+        "title": "FCC Alabama State FTTP availability file 1789749",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789749",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "FCC-D25-FL",
+        "title": "FCC Florida State FTTP availability file 1789758",
+        "url": "https://bdc.fcc.gov/api/public/map/downloads/downloadFile/availability/1789758",
+        "date": "2025-12-31; revised 2026-09-15",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "RIGHTFIBER-RETAIL",
+        "title": "Rightfiber Areas We Serve",
+        "url": "https://www.rightfiber.com/service-areas",
+        "date": "undated live page; crawled today",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "RIGHTFIBER-CLOSE",
+        "title": "Grain Management Completes Strategic Combination Forming Rightfiber",
+        "url": "https://www.rightfiber.com/news/grain-management-completes-strategic-combination-forming-rightfiber",
+        "date": "2026-09-02",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "PELICAN-ABOUT",
+        "title": "Pelican Broadband About and Company History",
+        "url": "https://pelicanbroadband.com/about/",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "CAJUN-STORY",
+        "title": "Cajun Broadband Our Story",
+        "url": "https://www.cajunbroadband.com/our-story",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "NATCO-HISTORY",
+        "title": "NATCO company history",
+        "url": "https://www.natconet.com/company-history",
+        "date": "undated current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "YELCOT-SERVICE",
+        "title": "Yelcot service areas",
+        "url": "https://www.yelcot.com/",
+        "date": "2026 current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "OECC-ARIS",
+        "title": "OECC ARIS partnership",
+        "url": "https://www.oecc.com/fiber-internet",
+        "date": "undated historical page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "AR-ARIS",
+        "title": "Arkansas broadband office on OECC/SATCO",
+        "url": "https://broadband.arkansas.gov/november-newsletter/",
+        "date": "2025-12-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "AENEAS-STEMC-1",
+        "title": "STEMC board minutes, acquisition of Aeneas confirmed",
+        "url": "https://www.stemc.com/wp-content/uploads/2023/12/Minutes-February-1-2022.pdf",
+        "date": "2022-02-01",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "AENEAS-STEMC-2",
+        "title": "STEMC board minutes, CEO resolution records Aeneas acquisition",
+        "url": "https://www.stemc.com/wp-content/uploads/2025/08/Minutes-June-24-2025.pdf",
+        "date": "2025-06-24",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DRAGONFLY-CURRENT",
+        "title": "Dragonfly Internet Southwest Alabama",
+        "url": "https://dragonfly.net/",
+        "date": "current page",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DRAGONFLY-FAST",
+        "title": "Dragonfly Internet Acquires Fast Wireless",
+        "url": "https://dragonfly.net/news/dragonfly-internet-acquires-fast-wireless/",
+        "date": "2026-03",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": "DRAGONFLY-MYAKKA",
+        "title": "Dragonfly Internet Acquires Myakka Communications",
+        "url": "https://dragonfly.net/news/dragonfly-internet-acquires-myakka-communications/",
+        "date": "transaction finalized 2025-12-24; announced 2026-01",
+        "accessed": "2026-09-20"
+      }
+    ]
+  },
+  {
     "id": "p3-investment-case",
     "title": "Lit municipal contracts: ownership, duration and cash flow",
     "url": "research/p3-investment-case/",

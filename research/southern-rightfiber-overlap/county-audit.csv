@@ -1,0 +1,47 @@
+targetId,label,state,county,fips,buyer,target,intersection,incremental,overlapPct,status
+pelican_broadband,Pelican Broadband,LA,De Soto Parish,22031,0,301,0,301,0.0,measured
+pelican_broadband,Pelican Broadband,LA,Morehouse Parish,22067,0,1754,0,1754,0.0,measured
+pelican_broadband,Pelican Broadband,LA,Natchitoches Parish,22069,0,5040,0,5040,0.0,measured
+pelican_broadband,Pelican Broadband,LA,Ouachita Parish,22073,0,25,0,25,0.0,measured
+pelican_broadband,Pelican Broadband,LA,Red River Parish,22081,0,810,0,810,0.0,measured
+pelican_broadband,Pelican Broadband,LA,Sabine Parish,22085,0,684,0,684,0.0,measured
+cajun_broadband,Cajun Broadband,LA,Assumption Parish,22007,0,291,0,291,0.0,measured
+cajun_broadband,Cajun Broadband,LA,Iberia Parish,22045,0,1370,0,1370,0.0,measured
+cajun_broadband,Cajun Broadband,LA,Lafayette Parish,22055,0,107,0,107,0.0,measured
+cajun_broadband,Cajun Broadband,LA,St. Martin Parish,22099,0,1177,0,1177,0.0,measured
+cajun_broadband,Cajun Broadband,LA,St. Mary Parish,22101,0,236,0,236,0.0,measured
+cajun_broadband,Cajun Broadband,LA,Vermilion Parish,22113,0,2284,0,2284,0.0,measured
+natco,NATCO,AR,Boone County,05009,5,2132,0,2132,0.0,measured
+natco,NATCO,AR,Marion County,05089,0,3441,0,3441,0.0,measured
+yelcot,Yelcot,AR,Baxter County,05005,0,3264,0,3264,0.0,measured
+yelcot,Yelcot,AR,Cleburne County,05023,0,181,0,181,0.0,measured
+yelcot,Yelcot,AR,Independence County,05063,1195,2076,128,1948,6.165703,measured
+yelcot,Yelcot,AR,Izard County,05065,0,1467,0,1467,0.0,measured
+yelcot,Yelcot,AR,Marion County,05089,0,2280,0,2280,0.0,measured
+yelcot,Yelcot,AR,Searcy County,05129,0,8,0,8,0.0,measured
+yelcot,Yelcot,AR,Sharp County,05135,0,195,0,195,0.0,measured
+yelcot,Yelcot,AR,Stone County,05137,0,2802,0,2802,0.0,measured
+yelcot,Yelcot,AR,White County,05145,5694,1,0,1,0.0,measured
+satco,SATCO legal filer,AR,Bradley County,05011,0,2383,0,2383,0.0,measured
+satco,SATCO legal filer,AR,Calhoun County,05013,0,2106,0,2106,0.0,measured
+satco,SATCO legal filer,AR,Ouachita County,05103,0,434,0,434,0.0,measured
+satco,SATCO legal filer,AR,Union County,05139,951,227,0,227,0.0,measured
+satco,ARIS joint venture,AR,Calhoun County,05013,0,330,0,330,0.0,measured
+satco,ARIS joint venture,AR,Dallas County,05039,0,744,0,744,0.0,measured
+satco,ARIS joint venture,AR,Ouachita County,05103,0,6304,0,6304,0.0,measured
+aeneas,Aeneas,TN,Chester County,47023,0,7590,0,7590,0.0,measured
+aeneas,Aeneas,TN,Crockett County,47033,0,27,0,27,0.0,measured
+aeneas,Aeneas,TN,Fayette County,47047,75,17972,15,17957,0.083463,measured
+aeneas,Aeneas,TN,Hardeman County,47069,0,10469,0,10469,0.0,measured
+aeneas,Aeneas,TN,Hardin County,47071,0,32,0,32,0.0,measured
+aeneas,Aeneas,TN,Haywood County,47075,0,4479,0,4479,0.0,measured
+aeneas,Aeneas,TN,Henderson County,47077,0,1604,0,1604,0.0,measured
+aeneas,Aeneas,TN,Lauderdale County,47097,0,3334,0,3334,0.0,measured
+aeneas,Aeneas,TN,McNairy County,47109,0,487,0,487,0.0,measured
+aeneas,Aeneas,TN,Madison County,47113,0,10741,0,10741,0.0,measured
+aeneas,Aeneas,TN,Shelby County,47157,7521,76,9,67,11.842105,measured
+aeneas,Aeneas,TN,Tipton County,47167,887,21165,886,20279,4.186156,measured
+dragonfly,Dragonfly / SP Broadband,AL,Monroe County,01099,,475,,,,no_represented_historical_rightfiber_filer_in_complete_state_catalogue
+dragonfly,Dragonfly / Myakka,FL,Hardee County,12049,,2,,,,no_represented_historical_rightfiber_filer_in_complete_state_catalogue
+dragonfly,Dragonfly / Myakka,FL,Manatee County,12081,,3189,,,,no_represented_historical_rightfiber_filer_in_complete_state_catalogue
+dragonfly,Dragonfly / Myakka,FL,Sarasota County,12115,,1759,,,,no_represented_historical_rightfiber_filer_in_complete_state_catalogue
