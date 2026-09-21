@@ -1,8 +1,8 @@
 {
   "slug": "midwest-ownership-news",
   "title": "Midwest ownership, build stages and transaction watch",
-  "lede": "Prioritize owner-verified commercial routes with Joink, Metro, Midwest Fiber Networks, WIN Technology and selected Iowa, Missouri and Kentucky operators. Keep recent consolidators, cooperatives and public-company platforms in separate lanes, and do not count announced acquisitions as closed.",
-  "scope": "Public-source review as of September 20, 2026. The operator screen covers Illinois and Indiana plus selected Wisconsin, Iowa, Missouri, Kentucky, Michigan, Ohio and Kansas platform cases. County names identify public footprint or project clusters, not route connections, physical diversity, enterprise availability or seller willingness. Scale is stated only with its source date and unit. No new FCC availability counts are calculated or presented. Iowa and Kentucky contain selected named cases from a targeted ten-case review, not exhaustive full-state shortlists. Commercial priorities and countercases are analytical judgments.",
+  "lede": "Prioritize owner-verified commercial routes with Joink, Metro, Midwest Fiber Networks, WIN Technology and selected Iowa, Missouri and Kentucky operators. Keep recent consolidators, cooperatives and public-company platforms in separate lanes, and do not count announced acquisitions as closed. The Illinois/Indiana reconciliation separates acquired names from measured FCC filers and shows where row counts and corporate rollups can inflate the apparent footprint.",
+  "scope": "Public-source review as of September 20, 2026. The operator screen covers Illinois and Indiana plus selected Wisconsin, Iowa, Missouri, Kentucky, Michigan, Ohio and Kansas platform cases. County names identify public footprint or project clusters, not route connections, physical diversity, enterprise availability or seller willingness. Scale is stated only with its source date and unit. A bounded IL/IN appendix independently audits 16 legal-filer/state rows across 11 operator cases and four exact selected-set location unions using retained D25 inputs. These are historical availability counts, not current complete parent passings; ImOn/Danville mapping remains unknown. Iowa and Kentucky contain selected named cases from a targeted ten-case review, not exhaustive full-state shortlists. Commercial priorities and countercases are analytical judgments.",
   "pages": [
     "rightfiber",
     "greatplains"
@@ -101,7 +101,7 @@
           [
             "Endeavor Communications / Clay County Rural Telephone Cooperative (IN): central and west-central Indiana",
             "Member-owned cooperative. Members elect the board and receive or reinvest capital credits. [MW22] [MW23]",
-            "Operating broadband and communications platform. This screen does not state a new footprint count. [MW22] [MW23]",
+            "Operating broadband and communications platform. The FCC appendix reports the scoped Indiana historical-filer availability; it is not current company passings. [MW22] [MW23] [MW62]",
             "Priority 3 wholesale, joint-build and reciprocal last mile. Countercase: cooperative approvals and member-benefit standards make a control transaction structurally harder."
           ],
           [
@@ -169,6 +169,324 @@
             "Glo Fiber is a Shentel brand, not a separate owner. Shentel closed the Horizon acquisition April 1, 2024. The Chillicothe Telephone Company is a relevant Ohio operating legal entity; a similarly named Horizon Communications FCC filer in Idaho and Wyoming is unrelated. [MW38] [MW79]",
             "At June 30, 2026 Shentel reported 475,677 Glo expansion passings and 100,155 RGUs, with 728,736 passings and 19,847 fiber route miles company-wide. These units and perimeters are not additive. Circleville upgrades were reported complete August 26, with service available to more than 6,000 homes and businesses. [MW39] [MW40]",
             "Priority 2 Ohio wholesale and competitive benchmark. Countercase: public-company scale and recent integration make a regional bolt-on thesis implausible without a discrete asset carve-out."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fcc-bridge",
+      "nav": "IL / IN FCC counts",
+      "title": "Illinois and Indiana: sixteen measured legal-filer rows",
+      "paragraphs": [
+        "Calculated from the retained December 31, 2025 statewide FTTP files, revised September 15, 2026. Filter technology 50 and residential-capable service codes R/X, then deduplicate location_id within each filer and state. These are reported availability locations, not homes passed, subscribers, construction completions or current market whitespace. The screen covers 11 operator cases and 13 distinct legal filer IDs; it is not a new exhaustive state screen. [MW61] [MW62]",
+        "B-exclusive means a location reported under service code B that has no R/X record for the same filer and state. It does not mean all business-service records: Metronet has B records at every measured R/X location, so its B-exclusive count is zero. Counties below are counties with R/X records; Zayo\u2019s zero R/X counties do not describe its enterprise network.",
+        "ImOn / Danville remains unknown in this bounded IL/IN filer screen and is not represented by a zero-count row. Delta / ClearWave is displayed for reconciliation only and is excluded from the Metro selected-set union."
+      ],
+      "table": {
+        "columns": [
+          "Operator case",
+          "State",
+          "Historical legal filer / ID",
+          "Distinct R/X locations",
+          "B-exclusive locations",
+          "R/X counties",
+          "Input"
+        ],
+        "rows": [
+          [
+            "Joink / CTI",
+            "IL",
+            "Computer Techniques, Inc. \u00b7 290031",
+            "29,140",
+            "0",
+            "7",
+            "[MW61]"
+          ],
+          [
+            "Joink / CTI",
+            "IN",
+            "Joink, LLC \u00b7 190211",
+            "48,734",
+            "0",
+            "9",
+            "[MW62]"
+          ],
+          [
+            "Metro / Conxxus / MTCO",
+            "IL",
+            "MCC Network Services, LLC \u00b7 370068",
+            "121,140",
+            "12,157",
+            "37",
+            "[MW61]"
+          ],
+          [
+            "Metro / Conxxus / MTCO",
+            "IL",
+            "MTCO Corporation \u00b7 130872",
+            "11,538",
+            "0",
+            "6",
+            "[MW61]"
+          ],
+          [
+            "Delta / ClearWave: unallocated",
+            "IL",
+            "Delta Communications, LLC \u00b7 520076",
+            "62,273",
+            "0",
+            "30",
+            "[MW61]"
+          ],
+          [
+            "Surf Internet",
+            "IL",
+            "Surf Air Wireless, LLC \u00b7 310066",
+            "54,268",
+            "0",
+            "15",
+            "[MW61]"
+          ],
+          [
+            "Surf Internet",
+            "IN",
+            "Surf Air Wireless, LLC \u00b7 310066",
+            "137,724",
+            "0",
+            "21",
+            "[MW62]"
+          ],
+          [
+            "NITCO",
+            "IN",
+            "NITCO Holding Corporation \u00b7 130921",
+            "8,577",
+            "36",
+            "4",
+            "[MW62]"
+          ],
+          [
+            "New Lisbon / NLBC",
+            "IN",
+            "New Lisbon Telephone Company, Inc. \u00b7 130904",
+            "8,569",
+            "1,107",
+            "6",
+            "[MW62]"
+          ],
+          [
+            "Rightfiber / legacy GPC",
+            "IN",
+            "Great Plains Communications, Inc. \u00b7 130569",
+            "18,905",
+            "0",
+            "11",
+            "[MW62]"
+          ],
+          [
+            "Zayo / Front Range",
+            "IL",
+            "Front Range Intermediate Holdings, Inc. \u00b7 130982",
+            "0",
+            "276",
+            "0",
+            "[MW61]"
+          ],
+          [
+            "Zayo / Front Range",
+            "IN",
+            "Front Range Intermediate Holdings, Inc. \u00b7 130982",
+            "0",
+            "467",
+            "0",
+            "[MW62]"
+          ],
+          [
+            "Metronet",
+            "IL",
+            "Metronet Holdings, LLC \u00b7 131081",
+            "250,486",
+            "0",
+            "12",
+            "[MW61]"
+          ],
+          [
+            "Metronet",
+            "IN",
+            "Metronet Holdings, LLC \u00b7 131081",
+            "338,228",
+            "0",
+            "27",
+            "[MW62]"
+          ],
+          [
+            "Adams Fiber",
+            "IL",
+            "Adams Telephone Co-Operative \u00b7 130012",
+            "31,482",
+            "0",
+            "6",
+            "[MW61]"
+          ],
+          [
+            "Endeavor",
+            "IN",
+            "Clay County Rural Telephone Cooperative, Inc. \u00b7 130288",
+            "32,217",
+            "0",
+            "12",
+            "[MW62]"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "scoped-unions",
+      "nav": "Four scoped unions",
+      "title": "Four exact selected-set unions, with the corporate limits retained",
+      "paragraphs": [
+        "Each union was recomputed by two independent implementations from the retained raw files. The arithmetic is A \u222a B = A + B \u2212 A \u2229 B, matching exact location_id values. A numerical union is exact for the selected historical sets; it does not certify a complete current parent or acquired-asset perimeter. No locations or business rows are added through an assumed unit multiplier.",
+        "MCC and MTCO share one reported location, reducing their simple sum from 132,678 to 132,677. The full historical Delta/ClearWave filer cannot be added merely because Metro acquired specified Clearwave assets. Its 62,273 locations remain unallocated pending an asset-to-filer crosswalk. [MW61] [MW07] [MW09]"
+      ],
+      "table": {
+        "columns": [
+          "Selected scope",
+          "Components",
+          "Simple sum",
+          "Same-location overlap",
+          "Distinct union",
+          "Scope and ownership limit"
+        ],
+        "rows": [
+          [
+            "Joink scoped IL/IN",
+            "IL 290031: 29,140 + IN 190211: 48,734",
+            "77,874",
+            "0",
+            "77,874",
+            "Selected CTI Illinois and Joink Indiana sets only. Qualified adviser-roster grouping; no certified current parent perimeter or closing date. Other states and affiliates are outside scope. [MW61] [MW62] [MW64] [MW65]"
+          ],
+          [
+            "Surf scoped IL/IN",
+            "IL 310066: 54,268 + IN 310066: 137,724",
+            "191,992",
+            "0",
+            "191,992",
+            "Selected Illinois and Indiana records only; Michigan is outside this union. One legal filer, not two operators. [MW61] [MW62]"
+          ],
+          [
+            "Metronet scoped IL/IN",
+            "IL 131081: 250,486 + IN 131081: 338,228",
+            "588,714",
+            "0",
+            "588,714",
+            "Selected Illinois and Indiana records only. Residential retail relationships and network-platform ownership are separate; no added T-Mobile, KKR or Vexus count. [MW61] [MW62]"
+          ],
+          [
+            "Metro conditional MCC/MTCO IL",
+            "IL 370068: 121,140 + IL 130872: 11,538",
+            "132,678",
+            "1",
+            "132,677",
+            "Conditional view of historical MCC and MTCO sets under the supported post-D25 MTCO acquisition. Excludes the full 62,273-location Delta/ClearWave filer; no transferred-asset crosswalk. [MW61] [MW08] [MW09]"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "filer-mappings",
+      "nav": "Who belongs together",
+      "title": "Eleven entity mappings that prevent duplicate targets",
+      "paragraphs": [
+        "Historical legal filers stay visible even where current brands or owners differ. Closing evidence, regulatory approval, operating brands and a complete legal-entity schedule answer different questions. These mappings support the scoped analysis and do not alter the atlas\u2019s original legal-filer records."
+      ],
+      "table": {
+        "columns": [
+          "Operator case",
+          "Supported mapping and remaining boundary"
+        ],
+        "rows": [
+          [
+            "Joink / CTI",
+            "The retained D25 screen identifies Computer Techniques, Inc. (290031) in Illinois and Joink, LLC (190211) in Indiana. Pinpoint\u2019s current transaction roster describes CTI as sold to Joink. Retain that qualified grouping for duplicate control; the cited 2022 FCC authorization does not establish an exact closing date or present ownership percentages. [MW61] [MW62] [MW05] [MW64] [MW65] [MW87]"
+          ],
+          [
+            "Metro / Conxxus / MTCO / specified Clearwave assets",
+            "MCC Network Services, LLC (370068) reports Conxxus in the D25 Illinois data. Metro/Conxxus says it acquired MTCO Communications effective January 2, 2026, after the D25 snapshot; MTCO Corporation (130872) remains the historical filer. Specified Clearwave assets were acquired by the June 23 financing, independently of the March 12 transfer approval. The full historical Delta Communications/ClearWave filer (520076) remains unallocated to Metro without a transferred-asset crosswalk. [MW61] [MW06] [MW07] [MW09] [MW88]"
+          ],
+          [
+            "Surf Internet",
+            "Surf Internet is the operating brand reported under Surf Air Wireless, LLC (310066) in both Illinois and Indiana D25 records. The same filer appearing in two state tables is not two operators. Sponsor names do not establish current voting percentages or a separate additional footprint. [MW61] [MW62] [MW86] [MW11]"
+          ],
+          [
+            "ImOn / Danville Telecom",
+            "The completed Danville Telecom acquisition supports grouping Danville with ImOn, but no verified Illinois or Indiana D25 legal-filer mapping is established in this bounded screen. Record the measured footprint as unknown, not zero. Danville\u2019s Iowa operations must not be assigned to same-name locations in Illinois or Indiana. [MW61] [MW62] [MW89] [MW90] [MW91] [MW16]"
+          ],
+          [
+            "NITCO",
+            "The Indiana D25 records report the NITCO brand under NITCO Holding Corporation (130921). This is the measured filer identity, not a verified current beneficial-owner chart or evidence that municipal networks operated by NITCO are owned or transferable by it. [MW62] [MW17] [MW18]"
+          ],
+          [
+            "New Lisbon / NLBC",
+            "The Indiana D25 screen reports New Lisbon Telephone and NLBC under New Lisbon Telephone Company, Inc. (130904). NLBC also describes itself as a subsidiary of New Lisbon Telephone. Its appearance in the brand field does not erase that corporate distinction or create a second additive measured footprint. [MW62] [MW19] [MW20]"
+          ],
+          [
+            "Rightfiber / legacy GPC / ICN / ETC",
+            "Great Plains Communications, Inc. (130569) is the historical Indiana filer, with Miles Communications and Sunman Telecommunications reported in its data. GPC completed its ICN and ETC acquisitions in 2019 and 2020, then combined with Ritter as Rightfiber on September 2, 2026. These are inherited businesses, not additional independent targets; the measured Indiana filer is not a complete current Rightfiber footprint. [MW62] [MW01] [MW02] [MW03]"
+          ],
+          [
+            "Zayo / Front Range / former IFN",
+            "The retained Illinois and Indiana D25 evidence associates Zayo brand records with Front Range Intermediate Holdings, Inc. (130982). Zayo completed the separate Intelligent Fiber Network acquisition on June 1, 2021. No separate IFN filer assignment is established here, and no additional IFN count should be added. Zero residential-capable records in this measured scope would not mean zero enterprise network. [MW61] [MW62] [MW04]"
+          ],
+          [
+            "Metronet / T-Mobile / KKR",
+            "Metronet Holdings, LLC (131081) is the measured D25 filer in Illinois and Indiana. The T-Mobile/KKR-controlled joint venture acquired the Metronet network platform on July 24, 2025; T-Mobile separately acquired the residential retail customer relationships. The network company retains wholesale and commercial operations. Do not count T-Mobile, KKR or Vexus as additional residential footprints beside this filer. [MW61] [MW62] [MW82] [MW83] [MW84] [MW85]"
+          ],
+          [
+            "Adams Telephone Co-Operative / Adams Fiber",
+            "Adams Telephone Co-Operative (130012) is the measured Illinois filer; Adams Telsystems also appears in its reported brand data. The Adams Fiber company history ties the operating brand to that cooperative. Adams is separate from Adams Electric Cooperative, whose members originally formed it; no electric-cooperative footprint should be added. [MW61] [MW21]"
+          ],
+          [
+            "Endeavor Communications",
+            "Endeavor Communications is the reported brand for Clay County Rural Telephone Cooperative, Inc. (130288) in the Indiana D25 screen. The company describes a member-owned cooperative; the filer row does not establish seller availability, every subsidiary\u2019s assets or an Illinois footprint. [MW62] [MW23]"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "row-audit",
+      "nav": "Avoid inflated totals",
+      "title": "Why a raw row count can overstate locations",
+      "paragraphs": [
+        "Metronet\u2019s Illinois file contains 500,972 technology-50 rows and Indiana contains 676,456. Together that is 1,177,428 rows, but only 588,714 distinct selected R/X locations. In these retained inputs, every Metronet R/X location also has a B record. Adding the two service categories would count each measured location twice. This is a verified service-category duplication in these two files, not a general correction factor for other operators. [MW61] [MW62]",
+        "Zayo illustrates the opposite screening risk: its measured Front Range filer has no R/X records, but it has 276 B-exclusive locations in Illinois and 467 in Indiana. Those mass-market availability records are not a route, NNI or enterprise-building inventory. Zero in a residential screen cannot establish absence of an enterprise network. [MW61] [MW62] [MW04]",
+        "The audit reused the full retained statewide CSVs: Illinois file 1789762 contains 2,558,108 data rows and Indiana file 1789763 contains 2,619,519. Both input hashes match the validated baseline. No new FCC download or change to the 22-state atlas was required. Source-file row counts include all filers and service categories, whereas the table above is the selected-filer R/X screen. [MW61] [MW62]"
+      ],
+      "table": {
+        "columns": [
+          "Metronet scope",
+          "R/X rows",
+          "B rows",
+          "B unique locations",
+          "B-exclusive locations",
+          "Distinct R/X locations"
+        ],
+        "rows": [
+          [
+            "Illinois",
+            "250,486",
+            "250,486",
+            "250,486",
+            "0",
+            "250,486"
+          ],
+          [
+            "Indiana",
+            "338,228",
+            "338,228",
+            "338,228",
+            "0",
+            "338,228"
           ]
         ]
       }
@@ -873,7 +1191,464 @@
       "url": "https://www.in.gov/indianabroadband/indiana-connectivity-program/",
       "date": "2025-10-16; 2026-02-18; 2026-07-09",
       "accessed": "2026-09-20"
+    },
+    {
+      "title": "T-Mobile 2025 Form 10-K, Note 3: Joint Ventures",
+      "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/R13.htm",
+      "date": "2026-02-11",
+      "id": "MW82",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "T-Mobile Form 10-Q, June 30, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000101/tmus-20260630.htm",
+      "date": "2026-07-23",
+      "id": "MW83",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "FCC DA 25-601, WC 24-244, Metronet licensee transfer approval",
+      "url": "https://docs.fcc.gov/public/attachments/DA-25-601A1.pdf",
+      "date": "2025-07-09",
+      "id": "MW84",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "Oak Hill and Cinelli Family Complete Sale of Metronet",
+      "url": "https://oakhill.com/2025/07/24/oak-hill-and-cinelli-family-complete-sale-of-metronet/",
+      "date": "2025-07-24",
+      "id": "MW85",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "Surf Open Internet Transparency Policy",
+      "url": "https://surfinternet.com/terms/open-internet/",
+      "date": "2023-01-03",
+      "id": "MW86",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "Pinpoint announcement: Joink will acquire CTI Fiber",
+      "url": "https://www.pinpointadvisors.com/news/joink-llc-a-dif-capital-partners-portfolio-company-will-acquire-cti-fiber",
+      "date": "undated; relates to 2022 agreement",
+      "id": "MW87",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "Conxxus: MTCO acquisition customer announcement",
+      "url": "https://conxxus.com/about-conxxus/blog/category/press-releases/article/2026/02/mtco-communications-joins-metro-and-conxxus",
+      "date": "2026-02-05; acquisition effective 2026-01-02",
+      "id": "MW88",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "FCC DA 25-625: Danville transfer and ImOn holding company",
+      "url": "https://docs.fcc.gov/public/attachments/DA-25-625A1.pdf",
+      "date": "2025-07-15",
+      "id": "MW89",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "ImOn: Danville Telecom acquisition completed",
+      "url": "https://www.imon.net/imon-difference/news-events/ImOn-Communications-Announces-Completion-of-Danville-Telecom-Acquisition",
+      "date": "July 2025 announcement; exact closing day not established",
+      "id": "MW90",
+      "accessed": "2026-09-20"
+    },
+    {
+      "title": "Shuttleworth & Ingersoll: ImOn acquisition of Danville",
+      "url": "https://www.shuttleworthlaw.com/imons-acquisition-of-danville-mutual-telephone-company/",
+      "date": "undated page; explicitly describes July 2025 announcement",
+      "id": "MW91",
+      "accessed": "2026-09-20"
     }
   ],
-  "asOf": "2026-09-20"
+  "asOf": "2026-09-20",
+  "filerAudit": {
+    "availability_date": "2025-12-31",
+    "catalog_revision_date": "2026-09-15",
+    "technology": 50,
+    "residential_codes": [
+      "R",
+      "X"
+    ],
+    "business_exclusive_definition": "Distinct B location IDs minus R/X location IDs for the same filer/state",
+    "selected_case_count": 11,
+    "selected_filer_count": 13,
+    "selected_filer_state_count": 16,
+    "inputs": [
+      {
+        "state": "17",
+        "file": "17_1789762.csv",
+        "sha256": "afc4ecfe9d9f651358cec18d99a78bb71af11ff0e49b9010daa6603e2756fbcc",
+        "data_rows": 2558108
+      },
+      {
+        "state": "18",
+        "file": "18_1789763.csv",
+        "sha256": "6597182d071086dba816ac7cd3e6f98e465c5ad4ce8d077ebf09fa09952fc5f3",
+        "data_rows": 2619519
+      }
+    ],
+    "rows": [
+      {
+        "operator_case": "Joink / CTI",
+        "state": "IL",
+        "provider_id": "290031",
+        "legal_filer": "Computer Techniques, Inc.",
+        "reported_brands": [
+          "Computer Techniques Inc"
+        ],
+        "r_x_unique_locations": 29140,
+        "technology_50_raw_rows": 29140,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 7,
+        "r_x_rows": 29140,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Joink / CTI",
+        "state": "IN",
+        "provider_id": "190211",
+        "legal_filer": "Joink, LLC",
+        "reported_brands": [
+          "Joink"
+        ],
+        "r_x_unique_locations": 48734,
+        "technology_50_raw_rows": 48734,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 9,
+        "r_x_rows": 48734,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Metro / Conxxus / MTCO",
+        "state": "IL",
+        "provider_id": "370068",
+        "legal_filer": "MCC Network Services, LLC",
+        "reported_brands": [
+          "Conxxus"
+        ],
+        "r_x_unique_locations": 121140,
+        "technology_50_raw_rows": 133297,
+        "business_exclusive_locations": 12157,
+        "r_x_counties": 37,
+        "r_x_rows": 121140,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Metro / Conxxus / MTCO",
+        "state": "IL",
+        "provider_id": "130872",
+        "legal_filer": "MTCO Corporation",
+        "reported_brands": [
+          "digiMax"
+        ],
+        "r_x_unique_locations": 11538,
+        "technology_50_raw_rows": 11538,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 6,
+        "r_x_rows": 11538,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Metro / Conxxus / MTCO",
+        "state": "IL",
+        "provider_id": "520076",
+        "legal_filer": "Delta Communications, LLC",
+        "reported_brands": [
+          "ClearWave"
+        ],
+        "r_x_unique_locations": 62273,
+        "technology_50_raw_rows": 62273,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 30,
+        "r_x_rows": 62273,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "historical filer; excluded from Metro parent count"
+      },
+      {
+        "operator_case": "Surf Internet",
+        "state": "IL",
+        "provider_id": "310066",
+        "legal_filer": "Surf Air Wireless, LLC",
+        "reported_brands": [
+          "Surf Internet"
+        ],
+        "r_x_unique_locations": 54268,
+        "technology_50_raw_rows": 54268,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 15,
+        "r_x_rows": 54268,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Surf Internet",
+        "state": "IN",
+        "provider_id": "310066",
+        "legal_filer": "Surf Air Wireless, LLC",
+        "reported_brands": [
+          "Surf Internet"
+        ],
+        "r_x_unique_locations": 137724,
+        "technology_50_raw_rows": 137724,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 21,
+        "r_x_rows": 137724,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "NITCO",
+        "state": "IN",
+        "provider_id": "130921",
+        "legal_filer": "NITCO Holding Corporation",
+        "reported_brands": [
+          "NITCO"
+        ],
+        "r_x_unique_locations": 8577,
+        "technology_50_raw_rows": 8613,
+        "business_exclusive_locations": 36,
+        "r_x_counties": 4,
+        "r_x_rows": 8577,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "New Lisbon / NLBC",
+        "state": "IN",
+        "provider_id": "130904",
+        "legal_filer": "New Lisbon Telephone Company, Inc.",
+        "reported_brands": [
+          "New Lisbon Telephone",
+          "NLBC"
+        ],
+        "r_x_unique_locations": 8569,
+        "technology_50_raw_rows": 9676,
+        "business_exclusive_locations": 1107,
+        "r_x_counties": 6,
+        "r_x_rows": 8569,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Rightfiber / legacy GPC",
+        "state": "IN",
+        "provider_id": "130569",
+        "legal_filer": "Great Plains Communications, Inc.",
+        "reported_brands": [
+          "Miles Communications LLC",
+          "Sunman Telecommunications LLC"
+        ],
+        "r_x_unique_locations": 18905,
+        "technology_50_raw_rows": 18905,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 11,
+        "r_x_rows": 18905,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Zayo / Front Range",
+        "state": "IL",
+        "provider_id": "130982",
+        "legal_filer": "Front Range Intermediate Holdings, Inc.",
+        "reported_brands": [
+          "ZAYO GROUP LLC",
+          "Zayo Network Services, LLC"
+        ],
+        "r_x_unique_locations": 0,
+        "technology_50_raw_rows": 276,
+        "business_exclusive_locations": 276,
+        "r_x_counties": 0,
+        "r_x_rows": 0,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Zayo / Front Range",
+        "state": "IN",
+        "provider_id": "130982",
+        "legal_filer": "Front Range Intermediate Holdings, Inc.",
+        "reported_brands": [
+          "ZAYO GROUP LLC",
+          "Zayo Network Services, LLC"
+        ],
+        "r_x_unique_locations": 0,
+        "technology_50_raw_rows": 467,
+        "business_exclusive_locations": 467,
+        "r_x_counties": 0,
+        "r_x_rows": 0,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Metronet",
+        "state": "IL",
+        "provider_id": "131081",
+        "legal_filer": "Metronet Holdings, LLC",
+        "reported_brands": [
+          "Metronet Holdings"
+        ],
+        "r_x_unique_locations": 250486,
+        "technology_50_raw_rows": 500972,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 12,
+        "r_x_rows": 250486,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Metronet",
+        "state": "IN",
+        "provider_id": "131081",
+        "legal_filer": "Metronet Holdings, LLC",
+        "reported_brands": [
+          "Metronet Holdings"
+        ],
+        "r_x_unique_locations": 338228,
+        "technology_50_raw_rows": 676456,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 27,
+        "r_x_rows": 338228,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Adams Fiber",
+        "state": "IL",
+        "provider_id": "130012",
+        "legal_filer": "Adams Telephone Co-Operative",
+        "reported_brands": [
+          "Adams Telephone Co-Operative",
+          "Adams Telsystems Inc."
+        ],
+        "r_x_unique_locations": 31482,
+        "technology_50_raw_rows": 31482,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 6,
+        "r_x_rows": 31482,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW61",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      },
+      {
+        "operator_case": "Endeavor",
+        "state": "IN",
+        "provider_id": "130288",
+        "legal_filer": "Clay County Rural Telephone Cooperative, Inc.",
+        "reported_brands": [
+          "Endeavor Communications"
+        ],
+        "r_x_unique_locations": 32217,
+        "technology_50_raw_rows": 32217,
+        "business_exclusive_locations": 0,
+        "r_x_counties": 12,
+        "r_x_rows": 32217,
+        "r_x_duplicates_removed": 0,
+        "source_id": "MW62",
+        "scope": "Selected historical legal-filer/state availability; not a complete current parent footprint."
+      }
+    ],
+    "unresolved_cases": [
+      "ImOn / Danville: no verified IL/IN D25 legal-filer mapping in this bounded screen; unknown, not zero."
+    ]
+  },
+  "scopedUnions": [
+    {
+      "label": "Joink scoped IL/IN",
+      "components": [
+        {
+          "state": "IL",
+          "provider_id": "290031",
+          "r_x_unique_locations": 29140
+        },
+        {
+          "state": "IN",
+          "provider_id": "190211",
+          "r_x_unique_locations": 48734
+        }
+      ],
+      "component_sum": 77874,
+      "same_location_intersection": 0,
+      "selected_set_union": 77874,
+      "scope_limit": "Selected CTI Illinois and Joink Indiana sets only. Qualified adviser-roster grouping; no certified current parent perimeter or closing date. Other states and affiliates are outside scope."
+    },
+    {
+      "label": "Surf scoped IL/IN",
+      "components": [
+        {
+          "state": "IL",
+          "provider_id": "310066",
+          "r_x_unique_locations": 54268
+        },
+        {
+          "state": "IN",
+          "provider_id": "310066",
+          "r_x_unique_locations": 137724
+        }
+      ],
+      "component_sum": 191992,
+      "same_location_intersection": 0,
+      "selected_set_union": 191992,
+      "scope_limit": "Selected Illinois and Indiana records only; Michigan is outside this union. One legal filer, not two operators."
+    },
+    {
+      "label": "Metronet scoped IL/IN",
+      "components": [
+        {
+          "state": "IL",
+          "provider_id": "131081",
+          "r_x_unique_locations": 250486
+        },
+        {
+          "state": "IN",
+          "provider_id": "131081",
+          "r_x_unique_locations": 338228
+        }
+      ],
+      "component_sum": 588714,
+      "same_location_intersection": 0,
+      "selected_set_union": 588714,
+      "scope_limit": "Selected Illinois and Indiana records only. Residential retail relationships and network-platform ownership are separate; no added T-Mobile, KKR or Vexus count."
+    },
+    {
+      "label": "Metro conditional MCC/MTCO IL",
+      "components": [
+        {
+          "state": "IL",
+          "provider_id": "370068",
+          "r_x_unique_locations": 121140
+        },
+        {
+          "state": "IL",
+          "provider_id": "130872",
+          "r_x_unique_locations": 11538
+        }
+      ],
+      "component_sum": 132678,
+      "same_location_intersection": 1,
+      "selected_set_union": 132677,
+      "scope_limit": "Conditional view of historical MCC and MTCO sets under the supported post-D25 MTCO acquisition. Excludes the full 62,273-location Delta/ClearWave filer; no transferred-asset crosswalk."
+    }
+  ]
 }
